@@ -1,11 +1,12 @@
-# 아이언포지 연맹
-
-타입: 국가
-서브타입: 연맹
-영역: 발가르
-상태: 완료
-생성 일시: 2026년 4월 6일 오후 6:51
-최종 편집 일시: 2026년 6월 1일 오전 2:56
+---
+title: '아이언포지 연맹'
+type: '국가'
+subtype: '연맹'
+region: '발가르'
+status: '완료'
+created_at: '2026년 4월 6일 오후 6:51'
+updated_at: '2026년 6월 1일 오전 2:56'
+---
 
 <aside>
 <img src="https://app.notion.com/icons/book-closed_red.svg" alt="https://app.notion.com/icons/book-closed_red.svg" width="40px" />
@@ -16,7 +17,7 @@
 
 ## 개요
 
-![아이언포지 연맹.png](%EC%95%84%EC%9D%B4%EC%96%B8%ED%8F%AC%EC%A7%80_%EC%97%B0%EB%A7%B9.png)
+![아이언포지 연맹.webp](<../%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%84%A4%EC%A0%95/%EC%95%84%EC%9D%B4%EC%96%B8%ED%8F%AC%EC%A7%80_%EC%97%B0%EB%A7%B9.webp>)
 
 아이언포지 연맹은 [**발가르 대륙**](%EB%B0%9C%EA%B0%80%EB%A5%B4%20%EB%8C%80%EB%A5%99%2033a3ce531dea804fbdcef13f1d6595ef.md)의 지하층에서 성장한 [드워프](%EB%93%9C%EC%9B%8C%ED%94%84%2033a3ce531dea800685e8fdd28df4a2ce.md) 중심 산업 국가다. 이름은 연맹이지만, 단순한 상호 방위 동맹이 아니라 **분명한 영토와 도시권, 굴착 권한과 세금 체계**를 가진 통치체이며, 깊은 암반 아래의 공업 도시와 갱도·철도망을 통해 국가를 유지한다. 이들에게 문명은 지상에서 빛나는 궁정이 아니라, 땅속에서 굉음을 내며 버티는 제련소와 작업장, 그리고 그 모든 것을 안전하게 지탱하는 구조물의 합이다.
 

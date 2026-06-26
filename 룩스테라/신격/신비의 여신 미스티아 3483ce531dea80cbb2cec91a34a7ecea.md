@@ -1,22 +1,30 @@
-# 신비의 여신 미스티아
-
-상태: 완료
-등급: 대신격
-성향: 선신
-도메인: 신비, 지식, 혼돈
-포트폴리오: 감춰진 진실, 금지지식, 비밀 학술, 비전, 신비, 혼돈의 계시
-생성 일시: 2026년 4월 21일 오전 3:19
-최종 편집 일시: 2026년 6월 8일 오후 10:33
-성향 정렬값: 1
-등급 정렬값: 2
-대표: Yes
-청연 만신전: No
+---
+title: '신비의 여신 미스티아'
+status: '완료'
+rank: '대신격'
+alignment: '선신'
+domain:
+  - '신비'
+  - '지식'
+  - '혼돈'
+portfolio:
+  - '감춰진 진실'
+  - '금지지식'
+  - '비밀 학술'
+  - '비전'
+  - '신비'
+  - '혼돈의 계시'
+created_at: '2026년 4월 21일 오전 3:19'
+updated_at: '2026년 6월 8일 오후 10:33'
+pantheon: true
+cheongyeon_pantheon: false
+---
 
 # 개요
 
-![신비의 여신 미스티아.jpg](%EC%8B%A0%EB%B9%84%EC%9D%98_%EC%97%AC%EC%8B%A0_%EB%AF%B8%EC%8A%A4%ED%8B%B0%EC%95%84.jpg)
+![신비의 여신 미스티아.webp](<../%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8B%A0%EA%B2%A9/%EC%8B%A0%EB%B9%84%EC%9D%98_%EC%97%AC%EC%8B%A0_%EB%AF%B8%EC%8A%A4%ED%8B%B0%EC%95%84.webp>)
 
-![심볼 미스티아.png](%EC%8B%AC%EB%B3%BC_%EB%AF%B8%EC%8A%A4%ED%8B%B0%EC%95%84.png)
+![심볼 미스티아.webp](<../%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8B%A0%EA%B2%A9/%EC%8B%AC%EB%B3%BC_%EB%AF%B8%EC%8A%A4%ED%8B%B0%EC%95%84.webp>)
 
 **신비의 여신 미스티아**는 신비와 기적, 마법과 비밀스러운 지식을 관장한다. 그녀는 [**세계수 위그드라실**](https://app.notion.com/p/3323ce531dea80cda6acf0bb99a48f39?pvs=21)에게서 가장 많은 기적의 힘을 받은 존재로 전해지며, 그 때문에 **마법의 여신**이라고도 불린다.
 

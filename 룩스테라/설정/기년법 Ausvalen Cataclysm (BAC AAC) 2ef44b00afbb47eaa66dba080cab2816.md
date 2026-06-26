@@ -1,11 +1,12 @@
-# 기년법: Ausvalen Cataclysm (BAC/AAC)
-
-타입: 개념
-서브타입: 주요
-영역: 범대륙
-상태: 완료
-생성 일시: 2026년 5월 12일 오후 12:06
-최종 편집 일시: 2026년 5월 15일 오후 2:30
+---
+title: '기년법: Ausvalen Cataclysm (BAC/AAC)'
+type: '개념'
+subtype: '주요'
+region: '범대륙'
+status: '완료'
+created_at: '2026년 5월 12일 오후 12:06'
+updated_at: '2026년 5월 15일 오후 2:30'
+---
 
 # 개요
 
