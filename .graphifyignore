@@ -1,0 +1,15 @@
+# 1. 시스템, IDE, 에이전트 캐시 완전 차단
+.obsidian/
+.idea/
+.git/
+.agents/
+.codex/
+AGENTS.md
+graphify-out/
+*임시*/
+*.log
+.DS_Store
+
+# 2. 이번 분석에서 제외할 일반 폴더들 지정
+docs/
+scripts/
