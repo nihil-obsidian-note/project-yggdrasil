@@ -1,0 +1,22 @@
+﻿# Obsidian / IDE / Codex
+.obsidian/
+.idea/
+.codex/
+.agents/
+
+# Graphify & scripts
+graphify-out/
+scripts/
+
+# Docs & temp storage
+docs/
+엘드로스 임시/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Quartz build artifacts and environment
+quartz/public/
+quartz/node_modules/
+server.*.log
