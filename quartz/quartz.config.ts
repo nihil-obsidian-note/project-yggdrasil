@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     baseUrl: "docs.nihilncunia.com",
     ignorePatterns: [
       "위그드라실/비밀 설정/**",
+      "위그드라실/설정/**",
       "위그드라실/설정 정비/**",
       "위그드라실/세력 관계/**",
       "위그드라실/스토리 설계/**",
