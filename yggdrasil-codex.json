@@ -1,0 +1,4389 @@
+{
+  "deity": [
+    {
+      "title": "가뭄과 기근의 신  우르투스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "악신",
+      "domain": [
+        "부패",
+        "재앙"
+      ],
+      "portfolio": [
+        "가뭄",
+        "기근",
+        "메마름",
+        "부패",
+        "불화",
+        "붕괴",
+        "재앙",
+        "황폐"
+      ],
+      "created_at": "2026년 4월 25일 오전 8:10",
+      "updated_at": "2026년 6월 10일 오전 1:59",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "가정과 평안의 여신 베스티아",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "평화",
+        "화로"
+      ],
+      "portfolio": [
+        "가정",
+        "가족",
+        "귀가",
+        "안식",
+        "온기",
+        "화로",
+        "휴식"
+      ],
+      "created_at": "2026년 4월 28일 오전 4:21",
+      "updated_at": "2026년 6월 8일 오전 3:06",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "거지와 방랑자의 신 미그라",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "여행",
+        "평화"
+      ],
+      "portfolio": [
+        "구걸",
+        "방랑",
+        "생존",
+        "여행길",
+        "자비"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:13",
+      "updated_at": "2026년 6월 9일 오전 2:26",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "거짓과 기만의 신 로칸",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "악신",
+      "domain": [
+        "기만"
+      ],
+      "portfolio": [
+        "가면",
+        "거짓 맹세",
+        "교란",
+        "변장",
+        "사기",
+        "속삭임",
+        "속임수",
+        "허위"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:13",
+      "updated_at": "2026년 6월 9일 오전 1:35",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "검은 갑각의 신 카르카노스",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "수호",
+        "전쟁",
+        "질서"
+      ],
+      "portfolio": [
+        "관문",
+        "방패",
+        "보호",
+        "성채",
+        "질서"
+      ],
+      "created_at": "2026년 6월 19일 오전 7:17",
+      "updated_at": "2026년 6월 19일 오전 9:41",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "검은 밤의 파수자, 어둠과 비밀의 신 현야신군",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "기만",
+        "신비",
+        "어둠"
+      ],
+      "portfolio": [
+        "감춰진 진실",
+        "그림자",
+        "비밀 결사",
+        "암살",
+        "은신"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오후 7:20",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "격류와 흐름, 강의 신 리브라스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "원소",
+        "자연"
+      ],
+      "portfolio": [
+        "강",
+        "격류",
+        "물살",
+        "범람",
+        "치수",
+        "항로",
+        "홍수"
+      ],
+      "created_at": "2026년 4월 30일 오후 1:18",
+      "updated_at": "2026년 6월 10일 오전 1:09",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "경계와 숨김, 안개의 신 노르시스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "기만",
+        "황혼"
+      ],
+      "portfolio": [
+        "경계",
+        "보호의 장막",
+        "숨김",
+        "안개",
+        "은신",
+        "은폐",
+        "황혼"
+      ],
+      "created_at": "2026년 4월 30일 오후 1:18",
+      "updated_at": "2026년 6월 10일 오전 1:18",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "고요함과 멈춤, 호수의 여신 미레노아",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "자연",
+        "평화"
+      ],
+      "portfolio": [
+        "고요",
+        "성찰",
+        "정지",
+        "침묵",
+        "평화",
+        "호수"
+      ],
+      "created_at": "2026년 4월 30일 오후 1:18",
+      "updated_at": "2026년 6월 9일 오전 1:50",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "고통과 절망의 신 페레고르",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "악신",
+      "domain": [
+        "어둠",
+        "재앙"
+      ],
+      "portfolio": [
+        "고통",
+        "공포",
+        "금지지식",
+        "붕괴",
+        "악몽",
+        "절망"
+      ],
+      "created_at": "2026년 4월 23일 오전 2:59",
+      "updated_at": "2026년 6월 10일 오전 2:23",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "곡식의 어머니, 농경과 생명의 여신 농황신후",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "선신",
+      "domain": [
+        "생명",
+        "자연",
+        "화로"
+      ],
+      "portfolio": [
+        "곡식",
+        "농업",
+        "부엌과 식량 저장",
+        "수확",
+        "파종"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오후 5:13",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "공포와 허기, 검은 안개의 신 앙그라",
+      "status": "완료",
+      "rank": "초신격",
+      "alignment": "악신",
+      "domain": [
+        "광기",
+        "부패",
+        "어둠",
+        "재앙",
+        "혼돈"
+      ],
+      "portfolio": [
+        "공포",
+        "공황",
+        "광기",
+        "부패",
+        "붕괴",
+        "역병",
+        "절망",
+        "타락",
+        "탐식",
+        "탐욕",
+        "허기",
+        "흑무"
+      ],
+      "created_at": "2026년 4월 29일 오전 3:44",
+      "updated_at": "2026년 6월 8일 오전 2:02",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "교역과 항로, 상단의 여신 프레티아",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "여행",
+        "평화"
+      ],
+      "portfolio": [
+        "교역",
+        "무역로",
+        "번영",
+        "상단",
+        "수송",
+        "통행 안전",
+        "항로"
+      ],
+      "created_at": "2026년 4월 28일 오전 11:48",
+      "updated_at": "2026년 6월 8일 오전 2:30",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "궁사와 사냥꾼의 신 바르니오",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "자연",
+        "전쟁"
+      ],
+      "portfolio": [
+        "궁술",
+        "바람",
+        "사냥",
+        "은신",
+        "인내",
+        "추적"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:14",
+      "updated_at": "2026년 6월 9일 오후 7:05",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "균류와 버섯, 부식의 신 로타비아스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "부패",
+        "자연"
+      ],
+      "portfolio": [
+        "균류",
+        "버섯",
+        "부식",
+        "부패",
+        "분해",
+        "오염",
+        "포자"
+      ],
+      "created_at": "2026년 4월 30일 오후 1:18",
+      "updated_at": "2026년 6월 10일 오전 1:04",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "그늘과 휴식, 구름의 신 오르네스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "평화",
+        "황혼"
+      ],
+      "portfolio": [
+        "구름",
+        "그늘",
+        "안식",
+        "잠",
+        "포근함",
+        "황혼",
+        "휴식"
+      ],
+      "created_at": "2026년 4월 30일 오후 1:18",
+      "updated_at": "2026년 6월 9일 오전 1:52",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "그림자와 도둑의 신 녹티스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "기만",
+        "어둠"
+      ],
+      "portfolio": [
+        "그림자",
+        "도둑",
+        "도주",
+        "비밀",
+        "은신",
+        "잠입",
+        "절도"
+      ],
+      "created_at": "2026년 4월 23일 오전 4:47",
+      "updated_at": "2026년 6월 10일 오전 1:26",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "금속과 광물의 신 칼바르",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "대장간",
+        "원소"
+      ],
+      "portfolio": [
+        "광맥",
+        "광물",
+        "금속",
+        "암반",
+        "정련",
+        "제련",
+        "채굴"
+      ],
+      "created_at": "2026년 4월 30일 오후 1:18",
+      "updated_at": "2026년 6월 10일 오전 1:12",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "기억과 망각의 여신 오블리레테",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "시간",
+        "신비",
+        "지식"
+      ],
+      "portfolio": [
+        "기록",
+        "기억",
+        "망각",
+        "추모",
+        "치유"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:14",
+      "updated_at": "2026년 6월 10일 오전 12:55",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "길을 여는 바람, 폭풍과 여행의 신 풍백장군",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "여행",
+        "원소",
+        "폭풍"
+      ],
+      "portfolio": [
+        "계절풍",
+        "길을 여는 바람",
+        "바람",
+        "사절단",
+        "행군"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오후 7:20",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "깊은 심연의 이드리크",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "광기",
+        "어둠",
+        "폭풍"
+      ],
+      "portfolio": [
+        "광기",
+        "바다 폭풍",
+        "심연",
+        "암흑 해역",
+        "폭풍우",
+        "혼돈의 바다"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:14",
+      "updated_at": "2026년 6월 8일 오후 10:37",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "달그림자의 예언자, 꿈과 운명의 여신 월영성모",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "꿈",
+        "신비",
+        "운명"
+      ],
+      "portfolio": [
+        "꿈의 계시",
+        "달",
+        "밤의 기록",
+        "예언",
+        "점성"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오후 7:20",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "대지의 신 르기안",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "원소",
+        "자연"
+      ],
+      "portfolio": [
+        "기반",
+        "대지",
+        "대지 기원",
+        "안정",
+        "암반",
+        "토양"
+      ],
+      "created_at": "2026년 4월 19일 오전 8:59",
+      "updated_at": "2026년 6월 8일 오후 11:20",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "도박과 탐욕, 중독의 신 벨투스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "악신",
+      "domain": [
+        "기만",
+        "행운"
+      ],
+      "portfolio": [
+        "도박",
+        "사기",
+        "속임수",
+        "중독",
+        "탐욕",
+        "한탕",
+        "행운"
+      ],
+      "created_at": "2026년 4월 28일 오전 11:48",
+      "updated_at": "2026년 6월 10일 오전 1:40",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "독빛과 표류혼의 여신 베살리아",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "신비",
+        "운명",
+        "죽음"
+      ],
+      "portfolio": [
+        "망자의 길",
+        "맹독",
+        "예언",
+        "장례",
+        "조류"
+      ],
+      "created_at": "2026년 6월 19일 오전 7:18",
+      "updated_at": "2026년 6월 19일 오전 9:40",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "동방의 새싹용신 창림청룡대성(蒼林靑龍大聖)",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "생명",
+        "자연",
+        "질서"
+      ],
+      "portfolio": [
+        "봄",
+        "생명 순환",
+        "생명력",
+        "성장",
+        "숲",
+        "탄생"
+      ],
+      "created_at": "2026년 6월 3일 오후 5:52",
+      "updated_at": "2026년 6월 4일 오전 2:45",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "드워프와 대장장이의 신 칼림보르",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "대장간",
+        "원소"
+      ],
+      "portfolio": [
+        "공방",
+        "금속가공",
+        "단조",
+        "도선 제작",
+        "병기 제작",
+        "불꽃",
+        "장인정신",
+        "제련"
+      ],
+      "created_at": "2026년 4월 26일 오전 8:52",
+      "updated_at": "2026년 6월 8일 오전 3:08",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "만권의 기록자, 문자와 지식의 신 창문성군",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "시간",
+        "지식",
+        "질서"
+      ],
+      "portfolio": [
+        "관료 문서",
+        "기록",
+        "문자",
+        "법전",
+        "역사서",
+        "천문 기록"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 10일 오전 2:50",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "만마의 주인, 역천의 신 천마",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "의지",
+        "전쟁",
+        "혼돈"
+      ],
+      "portfolio": [
+        "강자존",
+        "마도",
+        "무공의 극의",
+        "성화",
+        "약육강식",
+        "약자도태",
+        "역천",
+        "인간 초월"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오후 5:14",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "매혹과 색욕의 여신 루스튀아",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "악신",
+      "domain": [
+        "기만",
+        "예술"
+      ],
+      "portfolio": [
+        "가면",
+        "거미",
+        "기만적 아름다움",
+        "매혹",
+        "색욕",
+        "속삭임",
+        "유혹",
+        "중독"
+      ],
+      "created_at": "2026년 4월 28일 오전 4:33",
+      "updated_at": "2026년 6월 10일 오전 1:49",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "맹독과 늪의 여신 베노미라",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "부패",
+        "자연"
+      ],
+      "portfolio": [
+        "늪",
+        "독",
+        "맹독",
+        "부패",
+        "오염",
+        "전염",
+        "해독"
+      ],
+      "created_at": "2026년 4월 29일 오전 5:02",
+      "updated_at": "2026년 6월 9일 오전 3:21",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "맹세의 집행자, 법과 형벌의 신 법도천군",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "복수",
+        "수호",
+        "질서"
+      ],
+      "portfolio": [
+        "계약",
+        "맹세",
+        "반역자 처벌",
+        "재판",
+        "형벌"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오전 3:29",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "명부의 재판관, 죽음과 윤회의 신 염라",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "무덤",
+        "죽음",
+        "질서"
+      ],
+      "portfolio": [
+        "망자의 길",
+        "명부",
+        "심판",
+        "윤회",
+        "저승의 법",
+        "죄업"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오후 5:13",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "모래와 사막, 인내의 여신 사하르",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "의지",
+        "자연"
+      ],
+      "portfolio": [
+        "고행",
+        "메마름",
+        "사막",
+        "생존",
+        "시련",
+        "인내"
+      ],
+      "created_at": "2026년 4월 29일 오후 11:39",
+      "updated_at": "2026년 6월 9일 오전 3:30",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "모험과 귀환, 개척의 신 발타스",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "개척",
+        "여행"
+      ],
+      "portfolio": [
+        "개척",
+        "귀환",
+        "발견",
+        "여행길",
+        "용기",
+        "전초기지",
+        "지도",
+        "탐사"
+      ],
+      "created_at": "2026년 5월 1일 오전 6:40",
+      "updated_at": "2026년 6월 8일 오후 8:37",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "물길의 수호자, 수로와 조운의 신 하백용왕",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "수호",
+        "여행",
+        "자연"
+      ],
+      "portfolio": [
+        "강의 경계",
+        "나루터",
+        "수로",
+        "수운 보호",
+        "조운",
+        "항로"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 10일 오전 2:58",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "물의 여신 쿠아리아",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "생명",
+        "원소",
+        "자연"
+      ],
+      "portfolio": [
+        "강",
+        "샘",
+        "생명력",
+        "수자원",
+        "정화수",
+        "치유수",
+        "호수"
+      ],
+      "created_at": "2026년 4월 19일 오전 8:48",
+      "updated_at": "2026년 6월 8일 오후 11:11",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "바다의 여신 칼라디엘",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "원소",
+        "자연",
+        "폭풍"
+      ],
+      "portfolio": [
+        "난파",
+        "바다",
+        "바다 폭풍",
+        "심해",
+        "조류",
+        "항해",
+        "해전"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:15",
+      "updated_at": "2026년 6월 8일 오후 11:27",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "바람의 신 아누르",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "여행",
+        "원소"
+      ],
+      "portfolio": [
+        "길잡이",
+        "바람",
+        "방랑",
+        "순풍",
+        "여행길",
+        "편서풍",
+        "항로"
+      ],
+      "created_at": "2026년 4월 19일 오전 9:00",
+      "updated_at": "2026년 6월 8일 오후 11:25",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "발명과 번뜩임, 도약의 신 볼티르",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "개척",
+        "대장간",
+        "지식"
+      ],
+      "portfolio": [
+        "공방",
+        "공학",
+        "기계",
+        "기술",
+        "도약",
+        "발명",
+        "착상",
+        "혁신"
+      ],
+      "created_at": "2026년 5월 1일 오전 6:40",
+      "updated_at": "2026년 6월 9일 오전 1:39",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "백염의 주인, 태양과 정화의 여신 일륜천후",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "선신",
+      "domain": [
+        "빛",
+        "정화",
+        "질서"
+      ],
+      "portfolio": [
+        "백염",
+        "부정 정화",
+        "신성 제례",
+        "태양",
+        "황실 혈통"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오전 2:34",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "백초의 현자, 의술과 해독의 신 약왕진인",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "선신",
+      "domain": [
+        "생명",
+        "정화",
+        "지식"
+      ],
+      "portfolio": [
+        "약초",
+        "역병 치료",
+        "의술",
+        "장생술",
+        "해독"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오전 5:41",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "번개와 천둥의 신 아르게스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "원소",
+        "폭풍"
+      ],
+      "portfolio": [
+        "낙뢰",
+        "뇌전",
+        "번개",
+        "천둥",
+        "폭풍우",
+        "하늘의 격노"
+      ],
+      "created_at": "2026년 4월 25일 오전 8:52",
+      "updated_at": "2026년 6월 9일 오전 2:04",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "번영과 거래, 투자의 신 아바리온",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "회색신",
+      "domain": [
+        "여행",
+        "행운"
+      ],
+      "portfolio": [
+        "거래",
+        "계약",
+        "기회",
+        "번영",
+        "재운",
+        "투기",
+        "투자",
+        "행운"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:30",
+      "updated_at": "2026년 6월 9일 오전 12:02",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "부패와 질병의 여신 모르간",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "악신",
+      "domain": [
+        "부패",
+        "죽음"
+      ],
+      "portfolio": [
+        "감염",
+        "부패",
+        "역병",
+        "오염",
+        "질병"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:15",
+      "updated_at": "2026년 6월 10일 오전 2:31",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "북방의 얼음수호군 현명진무대군(玄冥眞武大君)",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "수호",
+        "신비",
+        "자연"
+      ],
+      "portfolio": [
+        "겨울",
+        "고요",
+        "얼음",
+        "지혜",
+        "침묵"
+      ],
+      "created_at": "2026년 6월 3일 오후 5:52",
+      "updated_at": "2026년 6월 4일 오전 3:03",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "분노와 복수의 신 자르카스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "악신",
+      "domain": [
+        "복수",
+        "혼돈"
+      ],
+      "portfolio": [
+        "격노",
+        "복수",
+        "분노",
+        "원한",
+        "응보",
+        "징벌",
+        "혼돈"
+      ],
+      "created_at": "2026년 4월 28일 오전 4:22",
+      "updated_at": "2026년 6월 10일 오전 1:44",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "불과 열기의 신 아그니",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "대장간",
+        "원소"
+      ],
+      "portfolio": [
+        "대장간불",
+        "불",
+        "연소",
+        "열기",
+        "정화광",
+        "화염 정화"
+      ],
+      "created_at": "2026년 4월 19일 오전 8:29",
+      "updated_at": "2026년 6월 8일 오후 11:23",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "불행과 배신, 이간질의 여신 말리사",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "악신",
+      "domain": [
+        "기만",
+        "혼돈"
+      ],
+      "portfolio": [
+        "배신",
+        "불행",
+        "속삭임",
+        "원한",
+        "이간질",
+        "저주",
+        "질투"
+      ],
+      "created_at": "2026년 4월 23일 오후 8:28",
+      "updated_at": "2026년 6월 10일 오전 2:16",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "붉은 해성의 여신 아스테리아",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "생명",
+        "신비",
+        "자연"
+      ],
+      "portfolio": [
+        "굿",
+        "재생",
+        "태양",
+        "황실 혈통"
+      ],
+      "created_at": "2026년 6월 19일 오전 7:17",
+      "updated_at": "2026년 6월 19일 오전 9:36",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "비구름의 군주, 강과 풍요의 신 청룡대제",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "생명",
+        "자연",
+        "폭풍"
+      ],
+      "portfolio": [
+        "강",
+        "비",
+        "수맥",
+        "용혈 왕조",
+        "치수",
+        "풍요"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오전 6:08",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "비와 눈, 폭풍우의 여신 이리디아",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "원소",
+        "폭풍"
+      ],
+      "portfolio": [
+        "눈",
+        "비",
+        "우박",
+        "장마",
+        "재앙",
+        "폭우",
+        "폭풍우"
+      ],
+      "created_at": "2026년 4월 25일 오전 8:52",
+      "updated_at": "2026년 6월 9일 오전 2:23",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "빛의 신 룬다르",
+      "status": "완료",
+      "rank": "주신격",
+      "alignment": "선신",
+      "domain": [
+        "빛",
+        "생명",
+        "원소"
+      ],
+      "portfolio": [
+        "빛의 원소",
+        "생명의 빛",
+        "성광",
+        "순수광",
+        "정화광",
+        "치유",
+        "치유광"
+      ],
+      "created_at": "2026년 4월 19일 오전 7:57",
+      "updated_at": "2026년 6월 8일 오전 2:05",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "사랑과 미의 여신 베누아",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "생명",
+        "예술"
+      ],
+      "portfolio": [
+        "감정 표현",
+        "매혹",
+        "미",
+        "사랑",
+        "연정",
+        "조화"
+      ],
+      "created_at": "2026년 4월 27일 오후 9:49",
+      "updated_at": "2026년 6월 8일 오전 2:56",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "산맥의 신 몬타누스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "원소",
+        "자연"
+      ],
+      "portfolio": [
+        "고산",
+        "광맥",
+        "바위",
+        "산맥",
+        "생존",
+        "인내",
+        "절벽",
+        "침묵"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:18",
+      "updated_at": "2026년 6월 9일 오후 7:05",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "생명과 질서의 빛, 세계수의 여신 위그드라실",
+      "status": "완료",
+      "rank": "초신격",
+      "alignment": "선신",
+      "domain": [
+        "빛",
+        "생명",
+        "자연",
+        "정화",
+        "질서"
+      ],
+      "portfolio": [
+        "가지",
+        "대지 기원",
+        "뿌리",
+        "생명 순환",
+        "생명력",
+        "성역",
+        "세계수",
+        "영맥",
+        "자연 질서",
+        "재생",
+        "정화광",
+        "치유"
+      ],
+      "created_at": "2026년 4월 29일 오전 3:53",
+      "updated_at": "2026년 6월 8일 오전 2:03",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "생명의 여신 실바누스",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "생명",
+        "자연"
+      ],
+      "portfolio": [
+        "균형",
+        "번성",
+        "생명력",
+        "생태",
+        "수목",
+        "숲",
+        "야생의 생명",
+        "재생"
+      ],
+      "created_at": "2026년 4월 19일 오전 8:52",
+      "updated_at": "2026년 6월 8일 오후 11:03",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "서방의 강철호신 철악백호장군(鐵嶽白虎將軍)",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "수호",
+        "전쟁",
+        "질서"
+      ],
+      "portfolio": [
+        "강철",
+        "병기 제작",
+        "수호 맹세",
+        "징벌",
+        "형벌"
+      ],
+      "created_at": "2026년 6월 3일 오후 5:52",
+      "updated_at": "2026년 6월 4일 오전 3:00",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "서풍의 판정자, 서풍백룡진군(西風白龍眞君)",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "자연",
+        "전쟁",
+        "질서"
+      ],
+      "portfolio": [
+        "금속",
+        "수확",
+        "심판",
+        "질서 유지",
+        "편서풍"
+      ],
+      "created_at": "2026년 6월 3일 오후 6:24",
+      "updated_at": "2026년 6월 4일 오전 1:33",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "성난 파도의 장수, 폭풍과 해전의 신 해뢰군",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "재앙",
+        "전쟁",
+        "폭풍"
+      ],
+      "portfolio": [
+        "난파",
+        "바다 폭풍",
+        "번개",
+        "해상 격변",
+        "해전"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오후 5:49",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "쇠불의 장인, 대장간과 제련의 신 야철성군",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "개척",
+        "대장간",
+        "지식"
+      ],
+      "portfolio": [
+        "공방",
+        "도선 제작",
+        "병기 제작",
+        "성벽과 기계 장치",
+        "제련"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오후 5:13",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "숲과 초목, 초원의 여신 아르데아",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "자연"
+      ],
+      "portfolio": [
+        "녹음",
+        "번성",
+        "생태",
+        "성장",
+        "숲",
+        "초목",
+        "초원"
+      ],
+      "created_at": "2026년 4월 30일 오후 1:14",
+      "updated_at": "2026년 6월 9일 오전 3:27",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "승천 실패의 흉조, 흑린망룡(黑鱗亡龍)",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "악신",
+      "domain": [
+        "신비",
+        "재앙",
+        "죽음"
+      ],
+      "portfolio": [
+        "영맥",
+        "오염",
+        "원한",
+        "재앙",
+        "타락"
+      ],
+      "created_at": "2026년 6월 3일 오후 6:24",
+      "updated_at": "2026년 6월 4일 오전 1:01",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "시공간의 신 아이온",
+      "status": "완료",
+      "rank": "주신격",
+      "alignment": "선신",
+      "domain": [
+        "시간",
+        "신비"
+      ],
+      "portfolio": [
+        "가속",
+        "되감기",
+        "순환",
+        "시간 균열",
+        "시간 왜곡",
+        "시간 흐름",
+        "연대기",
+        "영원",
+        "정지"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:31",
+      "updated_at": "2026년 6월 8일 오전 2:10",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "신비의 여신 미스티아",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "신비",
+        "지식",
+        "혼돈"
+      ],
+      "portfolio": [
+        "감춰진 진실",
+        "금지지식",
+        "비밀 학술",
+        "비전",
+        "신비",
+        "혼돈의 계시"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:19",
+      "updated_at": "2026년 6월 8일 오후 10:33",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "신산의 호령자, 산악과 수호의 신 백악산군",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "무덤",
+        "수호",
+        "자연"
+      ],
+      "portfolio": [
+        "산악 영지",
+        "산중 결계",
+        "신산",
+        "조상묘의 수호",
+        "호랑이"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오전 6:07",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "아득한 혼돈의 카우나스",
+      "status": "완료",
+      "rank": "?????",
+      "alignment": "?????",
+      "domain": [
+        "광기",
+        "혼돈"
+      ],
+      "portfolio": [
+        "광기",
+        "혼돈"
+      ],
+      "created_at": "2026년 4월 28일 오전 3:42",
+      "updated_at": "2026년 6월 9일 오전 1:42",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "안식과 죽음의 신 솜누스",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "무덤",
+        "황혼"
+      ],
+      "portfolio": [
+        "무덤 수호",
+        "안식",
+        "임종",
+        "잠",
+        "평온",
+        "포용",
+        "황혼 경계"
+      ],
+      "created_at": "2026년 4월 23일 오전 4:55",
+      "updated_at": "2026년 6월 8일 오후 11:45",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "야성과 짐승의 신 카르녹",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "자연",
+        "혼돈"
+      ],
+      "portfolio": [
+        "광야",
+        "본능",
+        "사냥",
+        "야성",
+        "짐승",
+        "추적",
+        "포식"
+      ],
+      "created_at": "2026년 4월 28일 오전 4:22",
+      "updated_at": "2026년 6월 9일 오전 2:01",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "약초와 의술의 신 발란",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "생명",
+        "자연"
+      ],
+      "portfolio": [
+        "생명력",
+        "약초",
+        "역병 치료",
+        "의술",
+        "치유",
+        "해독",
+        "회복"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:20",
+      "updated_at": "2026년 6월 8일 오후 8:44",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "어둠의 신 에레보스",
+      "status": "완료",
+      "rank": "주신격",
+      "alignment": "선신",
+      "domain": [
+        "어둠",
+        "원소"
+      ],
+      "portfolio": [
+        "심연",
+        "암흑",
+        "어둠의 근원",
+        "원소의 그늘"
+      ],
+      "created_at": "2026년 4월 19일 오전 8:17",
+      "updated_at": "2026년 6월 8일 오전 2:21",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "언어와 문자, 기록의 신 로기온",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "지식"
+      ],
+      "portfolio": [
+        "관료 문서",
+        "기록",
+        "문서화",
+        "문자",
+        "법전",
+        "서신",
+        "언어"
+      ],
+      "created_at": "2026년 4월 28일 오전 11:48",
+      "updated_at": "2026년 6월 9일 오전 3:33",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "얼음과 냉기, 혹한의 여신 탈라샤",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "회색신",
+      "domain": [
+        "원소",
+        "재앙"
+      ],
+      "portfolio": [
+        "냉기",
+        "동결",
+        "빙설",
+        "얼음",
+        "재앙 한기",
+        "혹한"
+      ],
+      "created_at": "2026년 4월 27일 오후 9:19",
+      "updated_at": "2026년 6월 8일 오후 11:48",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "역천과 언데드의 신 네크룸",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "악신",
+      "domain": [
+        "부패",
+        "죽음"
+      ],
+      "portfolio": [
+        "부패",
+        "부패한 윤회",
+        "시체술",
+        "언데드",
+        "역천",
+        "죽음 왜곡"
+      ],
+      "created_at": "2026년 4월 23일 오전 4:52",
+      "updated_at": "2026년 6월 9일 오전 1:14",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "예술과 음유시인의 신 리라온",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "예술"
+      ],
+      "portfolio": [
+        "감정 표현",
+        "공연",
+        "노래",
+        "서사",
+        "영감",
+        "예술",
+        "축제"
+      ],
+      "created_at": "2026년 4월 28일 오전 4:42",
+      "updated_at": "2026년 6월 8일 오전 2:52",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "왕조의 흉길을 울리는 금오 금오태자(金烏太子)",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "빛",
+        "운명",
+        "재앙"
+      ],
+      "portfolio": [
+        "대화재",
+        "시대 전환",
+        "예언",
+        "왕조의 흥망",
+        "태양",
+        "태양의 흉조와 길조"
+      ],
+      "created_at": "2026년 6월 3일 오후 5:52",
+      "updated_at": "2026년 6월 4일 오전 1:31",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "용의 숨결과 비늘의 신 드라카드",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "원소",
+        "전쟁"
+      ],
+      "portfolio": [
+        "공성",
+        "비늘",
+        "용의 숨결",
+        "용혈",
+        "원소 전투",
+        "전쟁 재앙",
+        "파괴적 돌격"
+      ],
+      "created_at": "2026년 4월 25일 오전 8:15",
+      "updated_at": "2026년 6월 9일 오후 7:04",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "운명의 세 여신(우르다, 베르다, 나이트라)",
+      "status": "완료",
+      "rank": "주신격",
+      "alignment": "선신",
+      "domain": [
+        "시간",
+        "운명"
+      ],
+      "portfolio": [
+        "과거",
+        "미래",
+        "숙명",
+        "예언",
+        "예지",
+        "운명 개변",
+        "운명의 실",
+        "점성",
+        "필연",
+        "현재"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:11",
+      "updated_at": "2026년 6월 8일 오전 2:19",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "인연의 미궁을 읽는 천호 구현천호낭랑(九玄天狐娘娘)",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "기만",
+        "신비",
+        "운명"
+      ],
+      "portfolio": [
+        "길흉",
+        "매혹",
+        "변장",
+        "예지",
+        "운명의 실"
+      ],
+      "created_at": "2026년 6월 3일 오후 5:52",
+      "updated_at": "2026년 6월 4일 오전 1:12",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "장례와 매장, 애도의 신 오비투스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "무덤"
+      ],
+      "portfolio": [
+        "매장",
+        "명부",
+        "무덤 수호",
+        "애도",
+        "염습",
+        "장례",
+        "추모"
+      ],
+      "created_at": "2026년 4월 28일 오전 11:48",
+      "updated_at": "2026년 6월 9일 오전 2:10",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "재앙의 열기, 홍련적룡군(紅蓮赤龍君)",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "원소",
+        "재앙",
+        "전쟁"
+      ],
+      "portfolio": [
+        "가뭄",
+        "분노",
+        "열기",
+        "전쟁 재앙",
+        "화염 재앙"
+      ],
+      "created_at": "2026년 6월 3일 오후 6:24",
+      "updated_at": "2026년 6월 4일 오전 2:02",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "재와 연기의 여신 애신드라",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "원소",
+        "황혼"
+      ],
+      "portfolio": [
+        "연기",
+        "재",
+        "재생",
+        "정화광",
+        "포용",
+        "황혼"
+      ],
+      "created_at": "2026년 4월 30일 오후 1:15",
+      "updated_at": "2026년 6월 10일 오전 1:21",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "잿더미의 부활조 염화주작천후(炎華朱雀天后)",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "생명",
+        "원소",
+        "정화"
+      ],
+      "portfolio": [
+        "재",
+        "재생",
+        "잿더미의 부활",
+        "정화광",
+        "태양",
+        "화산"
+      ],
+      "created_at": "2026년 6월 3일 오후 5:52",
+      "updated_at": "2026년 6월 4일 오전 3:00",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "전쟁과 방패, 수호의 여신 팔라기아",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "수호",
+        "전쟁"
+      ],
+      "portfolio": [
+        "방패",
+        "보호",
+        "성채",
+        "수비전",
+        "수운 보호",
+        "수호 맹세",
+        "호위"
+      ],
+      "created_at": "2026년 4월 28일 오전 11:48",
+      "updated_at": "2026년 6월 8일 오전 2:32",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "전쟁과 용기, 영웅의 신 티리안",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "의지",
+        "전쟁"
+      ],
+      "portfolio": [
+        "결투",
+        "명예",
+        "영웅서사",
+        "용기",
+        "의지의 불꽃",
+        "전술",
+        "전장의 사기"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:20",
+      "updated_at": "2026년 6월 8일 오후 8:34",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "전쟁과 전술, 책략의 신 시지아스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "전쟁",
+        "지식"
+      ],
+      "portfolio": [
+        "병법",
+        "전술",
+        "정보전",
+        "지도",
+        "지휘",
+        "책략",
+        "행군"
+      ],
+      "created_at": "2026년 4월 28일 오전 11:48",
+      "updated_at": "2026년 6월 9일 오전 1:54",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "전쟁과 정복, 포학의 신 볼로고르",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "악신",
+      "domain": [
+        "전쟁",
+        "혼돈"
+      ],
+      "portfolio": [
+        "강권",
+        "약탈",
+        "전장 붕괴",
+        "정복",
+        "폭정",
+        "학살"
+      ],
+      "created_at": "2026년 4월 28일 오전 4:49",
+      "updated_at": "2026년 6월 9일 오전 1:09",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "전쟁과 파괴의 신 바르툼",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "회색신",
+      "domain": [
+        "전쟁",
+        "혼돈"
+      ],
+      "portfolio": [
+        "광란",
+        "난전",
+        "무차별",
+        "전장 붕괴",
+        "전쟁 재앙",
+        "파괴",
+        "학살"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:25",
+      "updated_at": "2026년 6월 9일 오전 12:12",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "지맥의 중심축, 중악황룡제군(中嶽黃龍帝君)",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "수호",
+        "자연",
+        "질서"
+      ],
+      "portfolio": [
+        "권위",
+        "균형",
+        "대지",
+        "영맥",
+        "황권"
+      ],
+      "created_at": "2026년 6월 3일 오후 6:24",
+      "updated_at": "2026년 6월 4일 오전 3:27",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "지식과 지혜의 신 그녹시아스",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "지식"
+      ],
+      "portfolio": [
+        "기록",
+        "도서",
+        "문자",
+        "법전",
+        "보존",
+        "역사서",
+        "지식",
+        "지혜",
+        "천문 기록",
+        "탐구"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:31",
+      "updated_at": "2026년 6월 8일 오전 3:30",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "지하세계의 여신 움브라",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "회색신",
+      "domain": [
+        "무덤",
+        "어둠"
+      ],
+      "portfolio": [
+        "관문",
+        "무덤 수호",
+        "심연 통로",
+        "안식",
+        "암흑",
+        "지하세계"
+      ],
+      "created_at": "2026년 4월 24일 오전 8:30",
+      "updated_at": "2026년 6월 8일 오후 11:58",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "진주길의 여신 네레이온",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "여행",
+        "질서",
+        "행운"
+      ],
+      "portfolio": [
+        "교역",
+        "귀환",
+        "나루터",
+        "무역로",
+        "통행 안전",
+        "항로"
+      ],
+      "created_at": "2026년 6월 19일 오전 7:18",
+      "updated_at": "2026년 6월 19일 오전 9:39",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "질서와 법률의 신 유스토르",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "의지",
+        "질서"
+      ],
+      "portfolio": [
+        "계약",
+        "규율",
+        "맹세",
+        "법리",
+        "법전",
+        "재판",
+        "질서 유지",
+        "판결",
+        "형벌"
+      ],
+      "created_at": "2026년 4월 28일 오전 5:47",
+      "updated_at": "2026년 6월 8일 오전 2:47",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "징벌과 복수의 신 말레디크",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "복수",
+        "질서"
+      ],
+      "portfolio": [
+        "맹세 집행",
+        "복수",
+        "복수의 맹세",
+        "원한",
+        "응보",
+        "질서 처벌",
+        "징벌",
+        "형벌"
+      ],
+      "created_at": "2026년 4월 26일 오전 11:34",
+      "updated_at": "2026년 6월 8일 오전 2:23",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "천명의 주재자, 하늘 질서의 신 옥황",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "시간",
+        "운명",
+        "질서"
+      ],
+      "portfolio": [
+        "예법",
+        "왕조의 승인",
+        "천계 관료제",
+        "천명",
+        "천문율",
+        "황권"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오후 5:12",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "축제와 유흥의 신 바카레스",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "예술",
+        "행운"
+      ],
+      "portfolio": [
+        "가면",
+        "예술",
+        "유흥",
+        "축제",
+        "행운",
+        "향락",
+        "환희"
+      ],
+      "created_at": "2026년 4월 28일 오전 4:33",
+      "updated_at": "2026년 6월 9일 오전 3:36",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "침몰한 비밀의 왕, 심연흑룡왕(深淵黑龍王)",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "회색신",
+      "domain": [
+        "신비",
+        "재앙",
+        "죽음"
+      ],
+      "portfolio": [
+        "공포",
+        "비밀",
+        "심연",
+        "심해",
+        "암흑 해역"
+      ],
+      "created_at": "2026년 6월 3일 오후 6:24",
+      "updated_at": "2026년 6월 4일 오전 12:56",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "탄생과 소멸, 순환의 신 르비우스",
+      "status": "완료",
+      "rank": "주신격",
+      "alignment": "선신",
+      "domain": [
+        "무덤",
+        "생명",
+        "운명"
+      ],
+      "portfolio": [
+        "무덤의 씨앗",
+        "생사 순환",
+        "소멸",
+        "시작",
+        "운명의 실",
+        "윤회",
+        "재탄생",
+        "종언",
+        "탄생"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:27",
+      "updated_at": "2026년 6월 8일 오전 2:16",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "태양의 신 솔라리스 / 달의 여신 루나리스",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "빛",
+        "자연",
+        "황혼"
+      ],
+      "portfolio": [
+        "광명",
+        "낮",
+        "달",
+        "밤",
+        "순환",
+        "은광",
+        "태양",
+        "황혼"
+      ],
+      "created_at": "2026년 4월 19일 오전 8:37",
+      "updated_at": "2026년 6월 8일 오후 10:58",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "통치와 권위의 신 오르다누스",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "회색신",
+      "domain": [
+        "의지",
+        "질서"
+      ],
+      "portfolio": [
+        "권위",
+        "명령",
+        "위계",
+        "정통성",
+        "질서 유지",
+        "통치"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:26",
+      "updated_at": "2026년 6월 9일 오전 12:15",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "풍요와 농경의 여신 하르비아",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "생명",
+        "자연"
+      ],
+      "portfolio": [
+        "곡식",
+        "농업",
+        "부엌과 식량 저장",
+        "수확",
+        "파종",
+        "풍요"
+      ],
+      "created_at": "2026년 4월 25일 오전 5:55",
+      "updated_at": "2026년 6월 8일 오전 3:21",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "피맹세의 추적자, 원한과 복수의 신 암향신군",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "악신",
+      "domain": [
+        "기만",
+        "복수",
+        "어둠"
+      ],
+      "portfolio": [
+        "밤의 추적자",
+        "복수의 맹세",
+        "암살",
+        "원한"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오전 6:05",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "피와 살육의 신 바르칼라인",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "악신",
+      "domain": [
+        "전쟁",
+        "죽음"
+      ],
+      "portfolio": [
+        "살육",
+        "시체의 축제",
+        "전장의 공포",
+        "피",
+        "학살 충동",
+        "해전"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:28",
+      "updated_at": "2026년 6월 9일 오전 1:32",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "하늘의 신 아이테리온",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "원소",
+        "자연"
+      ],
+      "portfolio": [
+        "구름",
+        "기류",
+        "대기",
+        "바람길",
+        "천공",
+        "하늘"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:29",
+      "updated_at": "2026년 6월 8일 오후 11:31",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "해충과 역병의 여신 벨로지아",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "악신",
+      "domain": [
+        "부패",
+        "재앙"
+      ],
+      "portfolio": [
+        "감염",
+        "공황",
+        "부패",
+        "역병",
+        "재앙",
+        "전염",
+        "해충",
+        "흉작"
+      ],
+      "created_at": "2026년 4월 30일 오후 1:18",
+      "updated_at": "2026년 6월 10일 오전 1:32",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "행운의 여신 찬티아",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "행운"
+      ],
+      "portfolio": [
+        "가능성",
+        "길흉",
+        "동전",
+        "우연",
+        "주사위",
+        "카드",
+        "행운"
+      ],
+      "created_at": "2026년 4월 23일 오후 8:30",
+      "updated_at": "2026년 6월 9일 오후 7:05",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "형언할 수 없는 미지의 화신",
+      "status": "완료",
+      "rank": "?????",
+      "alignment": "회색신",
+      "domain": [
+        "광기",
+        "혼돈"
+      ],
+      "portfolio": [
+        "공포",
+        "광기",
+        "절망",
+        "혼돈"
+      ],
+      "created_at": "2026년 4월 24일 오후 2:07",
+      "updated_at": "2026년 6월 9일 오전 1:46",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "혼길의 중재자, 무속과 접신의 여신 무령할미",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "생명",
+        "신비",
+        "죽음"
+      ],
+      "portfolio": [
+        "굿",
+        "무속",
+        "산 자와 죽은 자의 중재",
+        "접신",
+        "치유",
+        "혼 부름"
+      ],
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 3일 오후 5:39",
+      "pantheon": false,
+      "cheongyeon_pantheon": true,
+      "docType": "deity"
+    },
+    {
+      "title": "화산의 신 불카르칸",
+      "status": "완료",
+      "rank": "중신격",
+      "alignment": "선신",
+      "domain": [
+        "원소",
+        "재앙"
+      ],
+      "portfolio": [
+        "분화",
+        "연기",
+        "용암",
+        "재",
+        "재앙",
+        "지열",
+        "화산"
+      ],
+      "created_at": "2026년 4월 21일 오전 3:30",
+      "updated_at": "2026년 6월 9일 오후 7:05",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "환상과 몽환의 여신 에테리아",
+      "status": "완료",
+      "rank": "대신격",
+      "alignment": "선신",
+      "domain": [
+        "꿈",
+        "신비"
+      ],
+      "portfolio": [
+        "계시",
+        "꿈",
+        "몽환",
+        "수면",
+        "신비",
+        "환상"
+      ],
+      "created_at": "2026년 4월 26일 오전 9:55",
+      "updated_at": "2026년 6월 8일 오전 2:25",
+      "pantheon": true,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    },
+    {
+      "title": "흑묵과 맹약의 신 오르시온",
+      "status": "완료",
+      "rank": "소신격",
+      "alignment": "회색신",
+      "domain": [
+        "신비",
+        "운명",
+        "지식"
+      ],
+      "portfolio": [
+        "계약",
+        "기록",
+        "기억",
+        "맹세",
+        "문자",
+        "예언"
+      ],
+      "created_at": "2026년 6월 19일 오전 7:18",
+      "updated_at": "2026년 6월 19일 오전 9:40",
+      "pantheon": false,
+      "cheongyeon_pantheon": false,
+      "docType": "deity"
+    }
+  ],
+  "setting": [
+    {
+      "title": "개방",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "초안",
+      "created_at": "2026년 6월 28일",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "곤륜파",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "초안",
+      "created_at": "2026년 6월 28일",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "공동파",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "초안",
+      "created_at": "2026년 6월 28일",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "무당파",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "초안",
+      "created_at": "2026년 6월 28일",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "무령당(巫靈堂)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "문사원(文史院)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "백악호선문(白岳虎禪門)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "법도부(法度府)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "소림사",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "초안",
+      "created_at": "2026년 6월 28일",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "수운선문(水運禪門)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "아미파",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "초안",
+      "created_at": "2026년 6월 28일",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "암향루(暗香樓)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "약왕곡(藥王谷)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "월영궁(月影宮)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "점창파",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "초안",
+      "created_at": "2026년 6월 28일",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "종남파",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "초안",
+      "created_at": "2026년 6월 28일",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "천마신교",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "완료",
+      "created_at": "2026년 5월 21일 오전 12:11",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "청룡선문(靑龍禪門)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "청성파",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "초안",
+      "created_at": "2026년 6월 28일",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "풍로선문(風路禪門)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "하오문",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "초안",
+      "created_at": "2026년 6월 28일",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "해뢰선문(海雷禪門)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "화산파",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "초안",
+      "created_at": "2026년 6월 28일",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "흑야회(黑夜會)",
+      "status": "초안",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "청연",
+      "created_at": "2026년 6월 28일 오후 7:42",
+      "updated_at": "2026년 6월 28일 오후 7:42",
+      "docType": "setting"
+    },
+    {
+      "title": "가호 사냥꾼",
+      "type": "개념",
+      "subtype": "일반",
+      "status": "완료",
+      "created_at": "2026년 4월 29일 오전 4:29",
+      "updated_at": "2026년 4월 30일 오후 12:11",
+      "docType": "setting"
+    },
+    {
+      "title": "갑각요새국 카르키논",
+      "type": "국가",
+      "subtype": "주요",
+      "region": "심연의 의회",
+      "status": "완료",
+      "created_at": "2026년 6월 19일 오전 6:40",
+      "updated_at": "2026년 6월 23일 오후 9:05",
+      "docType": "setting"
+    },
+    {
+      "title": "강철 제국 데우스",
+      "type": "국가",
+      "region": "칼디라",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:47",
+      "updated_at": "2026년 5월 15일 오후 10:07",
+      "docType": "setting"
+    },
+    {
+      "title": "검은 광기",
+      "type": "개념",
+      "subtype": "일반",
+      "status": "완료",
+      "created_at": "2026년 4월 30일 오전 9:01",
+      "updated_at": "2026년 4월 30일 오전 9:02",
+      "docType": "setting"
+    },
+    {
+      "title": "공포의 의회",
+      "type": "단체",
+      "subtype": "주요",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:43",
+      "updated_at": "2026년 5월 31일 오전 4:56",
+      "docType": "setting"
+    },
+    {
+      "title": "그라니타헤이븐 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "발가르",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오전 11:43",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "그림니르",
+      "type": "인물",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 27일 오전 2:49",
+      "updated_at": "2026년 4월 27일 오전 2:50",
+      "docType": "setting"
+    },
+    {
+      "title": "기년법: Ausvalen Cataclysm (BAC/AAC)",
+      "type": "개념",
+      "subtype": "주요",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 5월 12일 오후 12:06",
+      "updated_at": "2026년 5월 15일 오후 2:30",
+      "docType": "setting"
+    },
+    {
+      "title": "넘어온 자들",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 3월 30일 오전 1:32",
+      "updated_at": "2026년 4월 21일 오후 7:35",
+      "docType": "setting"
+    },
+    {
+      "title": "네베아 대륙",
+      "type": "지형",
+      "subtype": "대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:34",
+      "updated_at": "2026년 6월 25일 오전 4:39",
+      "docType": "setting"
+    },
+    {
+      "title": "녹턴 대륙",
+      "type": "지형",
+      "subtype": "대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:35",
+      "updated_at": "2026년 6월 25일 오전 4:13",
+      "docType": "setting"
+    },
+    {
+      "title": "단령 막부",
+      "type": "국가",
+      "region": "청연",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:48",
+      "updated_at": "2026년 6월 1일 오전 2:56",
+      "docType": "setting"
+    },
+    {
+      "title": "대륙",
+      "status": "시작 전",
+      "created_at": "2026년 6월 25일 오전 2:59",
+      "updated_at": "2026년 6월 25일 오전 2:59",
+      "docType": "setting"
+    },
+    {
+      "title": "대마경 아우스발렌 던전",
+      "type": "사건",
+      "subtype": "주요",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 26일 오전 4:45",
+      "updated_at": "2026년 6월 16일 오후 9:43",
+      "docType": "setting"
+    },
+    {
+      "title": "대지의 신성 왕국 르기안",
+      "type": "국가",
+      "region": "발가르",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:48",
+      "updated_at": "2026년 6월 1일 오전 2:47",
+      "docType": "setting"
+    },
+    {
+      "title": "던전",
+      "type": "개념",
+      "subtype": "주요",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 3월 30일 오전 2:04",
+      "updated_at": "2026년 6월 16일 오후 9:49",
+      "docType": "setting"
+    },
+    {
+      "title": "듀란 애시모르",
+      "type": "인물",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 27일 오전 2:55",
+      "updated_at": "2026년 4월 27일 오전 3:09",
+      "docType": "setting"
+    },
+    {
+      "title": "드래곤",
+      "type": "종족",
+      "status": "완료",
+      "created_at": "2026년 4월 26일 오전 9:30",
+      "updated_at": "2026년 4월 28일 오후 4:12",
+      "docType": "setting"
+    },
+    {
+      "title": "드로이드",
+      "type": "종족",
+      "status": "완료",
+      "created_at": "2026년 6월 15일 오전 3:09",
+      "updated_at": "2026년 6월 15일 오후 8:29",
+      "docType": "setting"
+    },
+    {
+      "title": "드워프",
+      "type": "종족",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:41",
+      "updated_at": "2026년 4월 26일 오전 10:08",
+      "docType": "setting"
+    },
+    {
+      "title": "루미나리스 신성 왕국",
+      "type": "국가",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:48",
+      "updated_at": "2026년 6월 1일 오전 2:11",
+      "docType": "setting"
+    },
+    {
+      "title": "룩스테라",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 3월 30일 오전 1:35",
+      "updated_at": "2026년 6월 19일 오전 10:25",
+      "docType": "setting"
+    },
+    {
+      "title": "룬다르 신성 제국",
+      "type": "국가",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:49",
+      "updated_at": "2026년 6월 1일 오전 1:29",
+      "docType": "setting"
+    },
+    {
+      "title": "리프안코르 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "실란도르",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 2:05",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "마나와 마법",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 3월 30일 오전 2:18",
+      "updated_at": "2026년 4월 21일 오후 7:35",
+      "docType": "setting"
+    },
+    {
+      "title": "마키나",
+      "type": "종족",
+      "status": "완료",
+      "created_at": "2026년 4월 28일 오후 2:30",
+      "updated_at": "2026년 6월 15일 오전 3:02",
+      "docType": "setting"
+    },
+    {
+      "title": "망서루 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "청연",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 1:59",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "모험가",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 3월 30일 오전 1:42",
+      "updated_at": "2026년 6월 3일 오전 3:20",
+      "docType": "setting"
+    },
+    {
+      "title": "무림",
+      "type": "개념",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:45",
+      "updated_at": "2026년 6월 25일 오전 8:21",
+      "docType": "setting"
+    },
+    {
+      "title": "무림(武林) 최소 개념 정리",
+      "type": "개념",
+      "subtype": "지침",
+      "status": "완료",
+      "created_at": "2026년 6월 25일 오전 8:12",
+      "updated_at": "2026년 6월 25일 오전 8:14",
+      "docType": "setting"
+    },
+    {
+      "title": "물의 신성 왕국 쿠아리온",
+      "type": "국가",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:49",
+      "updated_at": "2026년 6월 1일 오전 2:31",
+      "docType": "setting"
+    },
+    {
+      "title": "바람의 신성 왕국 에아누르",
+      "type": "국가",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:49",
+      "updated_at": "2026년 6월 1일 오전 2:28",
+      "docType": "setting"
+    },
+    {
+      "title": "발가르 대륙",
+      "type": "지형",
+      "subtype": "대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:35",
+      "updated_at": "2026년 6월 25일 오전 4:33",
+      "docType": "setting"
+    },
+    {
+      "title": "발라스쿠 연맹",
+      "type": "국가",
+      "subtype": "연맹",
+      "region": "진홍의 해협",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:50",
+      "updated_at": "2026년 6월 25일 오전 4:30",
+      "docType": "setting"
+    },
+    {
+      "title": "발로르 왕국",
+      "type": "국가",
+      "region": "네베아",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:50",
+      "updated_at": "2026년 6월 2일 오전 2:23",
+      "docType": "setting"
+    },
+    {
+      "title": "불의 신성 왕국 아그니르",
+      "type": "국가",
+      "region": "칼디라",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:50",
+      "updated_at": "2026년 6월 1일 오전 3:18",
+      "docType": "setting"
+    },
+    {
+      "title": "블랙헤이븐 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "카르코사",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오전 11:39",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "빛의 귀인",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 29일 오전 4:13",
+      "updated_at": "2026년 5월 2일 오전 6:47",
+      "docType": "setting"
+    },
+    {
+      "title": "생명의 신성 왕국 실바니아",
+      "type": "국가",
+      "region": "실란도르",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:51",
+      "updated_at": "2026년 6월 1일 오전 10:00",
+      "docType": "setting"
+    },
+    {
+      "title": "선림",
+      "type": "개념",
+      "subtype": "일반",
+      "region": "청연",
+      "status": "완료",
+      "created_at": "2026년 6월 25일 오전 8:14",
+      "updated_at": "2026년 6월 25일 오전 8:21",
+      "docType": "setting"
+    },
+    {
+      "title": "선림(仙林) 최소 개념 정리",
+      "type": "개념",
+      "subtype": "지침",
+      "status": "완료",
+      "created_at": "2026년 6월 25일 오전 8:12",
+      "updated_at": "2026년 6월 25일 오전 8:14",
+      "docType": "setting"
+    },
+    {
+      "title": "세계수 위그드라실",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 3월 30일 오전 1:37",
+      "updated_at": "2026년 5월 31일 오후 11:29",
+      "docType": "setting"
+    },
+    {
+      "title": "셀레스티얼 실바",
+      "type": "국가",
+      "region": "실란도르",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:51",
+      "updated_at": "2026년 6월 1일 오전 1:48",
+      "docType": "setting"
+    },
+    {
+      "title": "솔리움 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오전 10:27",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "쉐도우글래스 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "녹턴",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 2:29",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "스케이븐",
+      "type": "종족",
+      "status": "완료",
+      "created_at": "2026년 6월 15일 오후 9:13",
+      "updated_at": "2026년 6월 15일 오후 9:23",
+      "docType": "setting"
+    },
+    {
+      "title": "시초의 제국",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 3월 30일 오전 2:10",
+      "updated_at": "2026년 4월 21일 오후 7:35",
+      "docType": "setting"
+    },
+    {
+      "title": "신앙과 종교",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 3월 30일 오전 2:22",
+      "updated_at": "2026년 5월 2일 오전 6:56",
+      "docType": "setting"
+    },
+    {
+      "title": "실란도르 대륙",
+      "type": "지형",
+      "subtype": "대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:36",
+      "updated_at": "2026년 6월 25일 오전 3:50",
+      "docType": "setting"
+    },
+    {
+      "title": "심해의 다섯 왕국의 성물",
+      "type": "아이템",
+      "subtype": "주요",
+      "region": "심연의 의회",
+      "status": "완료",
+      "created_at": "2026년 6월 19일 오전 7:55",
+      "updated_at": "2026년 6월 19일 오전 9:30",
+      "docType": "setting"
+    },
+    {
+      "title": "심해의 의회",
+      "type": "단체",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:45",
+      "updated_at": "2026년 6월 19일 오전 9:50",
+      "docType": "setting"
+    },
+    {
+      "title": "쌍령왕국 사티야",
+      "type": "국가",
+      "subtype": "주요",
+      "region": "심연의 의회",
+      "status": "완료",
+      "created_at": "2026년 6월 19일 오전 6:42",
+      "updated_at": "2026년 6월 19일 오전 9:46",
+      "docType": "setting"
+    },
+    {
+      "title": "아그네스 밀러",
+      "type": "인물",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 27일 오전 3:09",
+      "updated_at": "2026년 4월 27일 오전 3:45",
+      "docType": "setting"
+    },
+    {
+      "title": "아르젠타 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오전 10:27",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "아르카 마법 연합",
+      "type": "단체",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:46",
+      "updated_at": "2026년 5월 22일 오후 11:59",
+      "docType": "setting"
+    },
+    {
+      "title": "아우렐리아 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오전 10:27",
+      "updated_at": "2026년 6월 1일 오전 3:03",
+      "docType": "setting"
+    },
+    {
+      "title": "아이언앵커 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "카르코사",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오전 11:39",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "아이언포지 연맹",
+      "type": "국가",
+      "subtype": "연맹",
+      "region": "발가르",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:51",
+      "updated_at": "2026년 6월 1일 오전 2:56",
+      "docType": "setting"
+    },
+    {
+      "title": "아주르헤이븐 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "실란도르",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 2:05",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "아카이럼 밀러",
+      "type": "인물",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 27일 오전 3:28",
+      "updated_at": "2026년 4월 27일 오전 3:44",
+      "docType": "setting"
+    },
+    {
+      "title": "아크나톤 제국",
+      "type": "국가",
+      "region": "칼디라",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:52",
+      "updated_at": "2026년 5월 15일 오후 9:46",
+      "docType": "setting"
+    },
+    {
+      "title": "안개 농도",
+      "type": "개념",
+      "subtype": "일반",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 6월 19일 오전 10:32",
+      "updated_at": "2026년 6월 19일 오전 10:35",
+      "docType": "setting"
+    },
+    {
+      "title": "앙그라의 못",
+      "type": "개념",
+      "subtype": "일반",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 6월 19일 오전 10:32",
+      "updated_at": "2026년 6월 19일 오전 10:40",
+      "docType": "setting"
+    },
+    {
+      "title": "앙그라의 안개",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 3월 30일 오전 1:40",
+      "updated_at": "2026년 6월 23일 오후 8:52",
+      "docType": "setting"
+    },
+    {
+      "title": "앙그라의 잔향",
+      "type": "개념",
+      "subtype": "일반",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 30일 오전 9:09",
+      "updated_at": "2026년 6월 16일 오후 9:49",
+      "docType": "setting"
+    },
+    {
+      "title": "어둠의 신성 왕국 에레보스",
+      "type": "국가",
+      "region": "녹턴",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:52",
+      "updated_at": "2026년 6월 1일 오전 1:57",
+      "docType": "setting"
+    },
+    {
+      "title": "에리나 밀러",
+      "type": "인물",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 27일 오전 3:23",
+      "updated_at": "2026년 4월 27일 오전 3:44",
+      "docType": "setting"
+    },
+    {
+      "title": "에리디안 경비대",
+      "type": "단체",
+      "subtype": "일반",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 26일 오전 4:33",
+      "updated_at": "2026년 6월 1일 오전 1:15",
+      "docType": "setting"
+    },
+    {
+      "title": "에리디안 대륙",
+      "type": "지형",
+      "subtype": "대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:32",
+      "updated_at": "2026년 6월 25일 오전 4:29",
+      "docType": "setting"
+    },
+    {
+      "title": "에리디안 제국",
+      "type": "국가",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오전 7:47",
+      "updated_at": "2026년 6월 1일 오전 1:15",
+      "docType": "setting"
+    },
+    {
+      "title": "에메랄드게이트 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "실란도르",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 2:05",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "에미르 라이트블룸 렘바이스",
+      "type": "인물",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 5월 30일 오전 2:52",
+      "updated_at": "2026년 5월 31일 오전 1:24",
+      "docType": "setting"
+    },
+    {
+      "title": "에테르나 공화국",
+      "type": "국가",
+      "region": "발가르",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:53",
+      "updated_at": "2026년 6월 1일 오전 3:10",
+      "docType": "setting"
+    },
+    {
+      "title": "엘드라시온 왕국",
+      "type": "국가",
+      "region": "네베아",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:53",
+      "updated_at": "2026년 6월 25일 오전 4:01",
+      "docType": "setting"
+    },
+    {
+      "title": "엘프",
+      "type": "종족",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:41",
+      "updated_at": "2026년 4월 26일 오전 11:33",
+      "docType": "setting"
+    },
+    {
+      "title": "오렐리아 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "발가르",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오전 11:43",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "오르반 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오전 10:27",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "옵시디언아치 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "녹턴",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 2:29",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "운경 황국",
+      "type": "국가",
+      "region": "청연",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:53",
+      "updated_at": "2026년 6월 1일 오전 12:38",
+      "docType": "setting"
+    },
+    {
+      "title": "위그드라실 연맹",
+      "type": "국가",
+      "subtype": "연맹",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오전 7:47",
+      "updated_at": "2026년 6월 25일 오전 4:09",
+      "docType": "setting"
+    },
+    {
+      "title": "위그드라실 의회",
+      "type": "단체",
+      "subtype": "주요",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 5월 10일 오전 8:54",
+      "updated_at": "2026년 6월 25일 오전 4:09",
+      "docType": "setting"
+    },
+    {
+      "title": "위스크 바람",
+      "type": "인물",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 27일 오전 3:22",
+      "updated_at": "2026년 4월 27일 오후 6:41",
+      "docType": "setting"
+    },
+    {
+      "title": "윈터홀드 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "네베아",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 12:01",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "유광성역 메두살리스",
+      "type": "국가",
+      "subtype": "주요",
+      "region": "심연의 의회",
+      "status": "완료",
+      "created_at": "2026년 6월 19일 오전 6:42",
+      "updated_at": "2026년 6월 23일 오후 9:01",
+      "docType": "setting"
+    },
+    {
+      "title": "이레귤러 헌터",
+      "type": "단체",
+      "status": "완료",
+      "created_at": "2026년 6월 15일 오전 3:02",
+      "updated_at": "2026년 6월 15일 오후 8:19",
+      "docType": "setting"
+    },
+    {
+      "title": "자유 탐사 도시 오리진",
+      "type": "도시국가",
+      "region": "에리디안",
+      "status": "완료",
+      "created_at": "2026년 4월 26일 오전 4:33",
+      "updated_at": "2026년 6월 1일 오전 12:43",
+      "docType": "setting"
+    },
+    {
+      "title": "자유 탐사 연맹 공고 유형",
+      "type": "주요 개념",
+      "subtype": "지침",
+      "status": "완료",
+      "created_at": "2026년 5월 31일 오전 5:08",
+      "updated_at": "2026년 6월 12일 오전 3:26",
+      "docType": "setting"
+    },
+    {
+      "title": "자유 탐사 연맹",
+      "type": "단체",
+      "subtype": "주요",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 3월 30일 오전 1:44",
+      "updated_at": "2026년 5월 22일 오후 11:59",
+      "docType": "setting"
+    },
+    {
+      "title": "재생왕국 아스테라케",
+      "type": "국가",
+      "subtype": "주요",
+      "region": "심연의 의회",
+      "status": "완료",
+      "created_at": "2026년 6월 19일 오전 6:40",
+      "updated_at": "2026년 6월 23일 오후 9:09",
+      "docType": "setting"
+    },
+    {
+      "title": "정령",
+      "type": "종족",
+      "subtype": "일반",
+      "status": "완료",
+      "created_at": "2026년 4월 29일 오전 4:40",
+      "updated_at": "2026년 4월 29일 오전 4:49",
+      "docType": "setting"
+    },
+    {
+      "title": "정제사",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 3월 30일 오전 1:52",
+      "updated_at": "2026년 4월 21일 오후 7:35",
+      "docType": "setting"
+    },
+    {
+      "title": "진명영 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "청연",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 1:59",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "진주해국 마르가리온",
+      "type": "국가",
+      "subtype": "주요",
+      "region": "심연의 의회",
+      "status": "완료",
+      "created_at": "2026년 6월 19일 오전 6:42",
+      "updated_at": "2026년 6월 23일 오후 8:59",
+      "docType": "setting"
+    },
+    {
+      "title": "천문대 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "청연",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 1:59",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "철갑진 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "청연",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 1:59",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "청연 대륙",
+      "type": "지형",
+      "subtype": "대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:36",
+      "updated_at": "2026년 6월 28일 오후 8:08",
+      "docType": "setting"
+    },
+    {
+      "title": "카르바넬 왕국",
+      "type": "국가",
+      "region": "칼디라",
+      "status": "완료",
+      "created_at": "2026년 5월 15일 오후 8:59",
+      "updated_at": "2026년 5월 15일 오후 9:44",
+      "docType": "setting"
+    },
+    {
+      "title": "카르코사 대륙",
+      "type": "지형",
+      "subtype": "대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:36",
+      "updated_at": "2026년 6월 25일 오전 4:20",
+      "docType": "setting"
+    },
+    {
+      "title": "카밀론 락클리프",
+      "type": "인물",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 27일 오전 3:00",
+      "updated_at": "2026년 4월 27일 오전 3:09",
+      "docType": "setting"
+    },
+    {
+      "title": "칼디라 대륙",
+      "type": "지형",
+      "subtype": "대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:38",
+      "updated_at": "2026년 6월 25일 오전 4:17",
+      "docType": "setting"
+    },
+    {
+      "title": "컬트 오브 디스페어",
+      "type": "단체",
+      "subtype": "주요",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 4월 23일 오전 3:49",
+      "updated_at": "2026년 6월 16일 오후 9:49",
+      "docType": "setting"
+    },
+    {
+      "title": "크리스틴 밀러",
+      "type": "인물",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 27일 오전 3:37",
+      "updated_at": "2026년 4월 27일 오전 3:41",
+      "docType": "setting"
+    },
+    {
+      "title": "테라 셀레스티아",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 6월 12일 오전 8:43",
+      "updated_at": "2026년 6월 26일 오후 5:29",
+      "docType": "setting"
+    },
+    {
+      "title": "테라 움브라",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 24일 오전 8:39",
+      "updated_at": "2026년 6월 26일 오후 5:32",
+      "docType": "setting"
+    },
+    {
+      "title": "테오르 마르케인",
+      "type": "인물",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 27일 오후 7:52",
+      "updated_at": "2026년 4월 27일 오후 7:58",
+      "docType": "setting"
+    },
+    {
+      "title": "토템 가디언",
+      "type": "개념",
+      "subtype": "일반",
+      "region": "범대륙",
+      "status": "완료",
+      "created_at": "2026년 6월 19일 오전 10:32",
+      "updated_at": "2026년 6월 19일 오전 10:43",
+      "docType": "setting"
+    },
+    {
+      "title": "투누케나 부족",
+      "type": "부족국가",
+      "subtype": "일반",
+      "region": "발가르",
+      "status": "완료",
+      "created_at": "2026년 6월 1일 오전 3:31",
+      "updated_at": "2026년 6월 1일 오전 3:34",
+      "docType": "setting"
+    },
+    {
+      "title": "펠가르드 연맹",
+      "type": "국가",
+      "subtype": "연맹",
+      "region": "네베아",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:54",
+      "updated_at": "2026년 6월 25일 오전 4:01",
+      "docType": "setting"
+    },
+    {
+      "title": "프로스트 앵커 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "발가르",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오전 11:43",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "프로스트베일 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "네베아",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 12:01",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "해월 연방",
+      "type": "국가",
+      "subtype": "연맹",
+      "region": "청연",
+      "status": "완료",
+      "created_at": "2026년 4월 6일 오후 6:46",
+      "updated_at": "2026년 6월 1일 오전 1:18",
+      "docType": "setting"
+    },
+    {
+      "title": "해월진 항구",
+      "type": "도시국가",
+      "subtype": "항구",
+      "region": "청연",
+      "status": "완료",
+      "created_at": "2026년 4월 19일 오후 1:59",
+      "updated_at": "2026년 5월 3일 오후 3:31",
+      "docType": "setting"
+    },
+    {
+      "title": "화폐 개념",
+      "type": "개념",
+      "subtype": "주요",
+      "status": "완료",
+      "created_at": "2026년 4월 25일 오후 11:56",
+      "updated_at": "2026년 4월 26일 오전 5:24",
+      "docType": "setting"
+    },
+    {
+      "title": "흑묵서고국 세피라스",
+      "type": "국가",
+      "subtype": "주요",
+      "region": "심연의 의회",
+      "status": "완료",
+      "created_at": "2026년 6월 19일 오전 6:41",
+      "updated_at": "2026년 6월 23일 오후 9:04",
+      "docType": "setting"
+    },
+    {
+      "title": "2031-2039 제4차 세계대전",
+      "status": "진행 중",
+      "type": "사건",
+      "subtype": "",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "2040년대-2290년대 대붕괴",
+      "status": "진행 중",
+      "type": "사건",
+      "subtype": "",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "2310 최초의 차원 굴절",
+      "status": "진행 중",
+      "type": "사건",
+      "subtype": "",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "2320 선구자 결성",
+      "status": "진행 중",
+      "type": "사건",
+      "subtype": "",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "2322 위그드라실 식수",
+      "status": "진행 중",
+      "type": "사건",
+      "subtype": "",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "길드-라의 영역",
+      "status": "진행 중",
+      "type": "단체",
+      "subtype": "길드",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "길드-붉은 십자",
+      "status": "진행 중",
+      "type": "단체",
+      "subtype": "길드",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "길드-새벽의 검",
+      "status": "진행 중",
+      "type": "단체",
+      "subtype": "길드",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "길드-심연의 서클",
+      "status": "진행 중",
+      "type": "단체",
+      "subtype": "길드",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "길드-정신의 탑",
+      "status": "진행 중",
+      "type": "단체",
+      "subtype": "길드",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "길드-철의 방패",
+      "status": "진행 중",
+      "type": "단체",
+      "subtype": "길드",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "길드",
+      "status": "진행 중",
+      "type": "주요 개념",
+      "subtype": "시스템",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "바이오 디바이스",
+      "status": "진행 중",
+      "type": "아이템",
+      "subtype": "기기",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "신목의 요람",
+      "status": "진행 중",
+      "type": "도시",
+      "subtype": "주요",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "엘드로스 연표",
+      "status": "진행 중",
+      "type": "주요 개념",
+      "subtype": "역사",
+      "region": "엘드로스",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "엘드로스",
+      "status": "진행 중",
+      "type": "도시",
+      "subtype": "주요",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "위그드라실",
+      "status": "진행 중",
+      "type": "주요 개념",
+      "subtype": "시스템",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "다리오",
+      "status": "진행 중",
+      "type": "인물",
+      "subtype": "오퍼레이터",
+      "region": "-",
+      "created_at": "-",
+      "updated_at": "-",
+      "docType": "setting"
+    },
+    {
+      "title": "데릭",
+      "status": "진행 중",
+      "type": "인물",
+      "subtype": "오퍼레이터",
+      "region": "-",
+      "created_at": "-",
+      "updated_at": "-",
+      "docType": "setting"
+    },
+    {
+      "title": "미우",
+      "status": "진행 중",
+      "type": "인물",
+      "subtype": "헌터",
+      "region": "-",
+      "created_at": "-",
+      "updated_at": "-",
+      "docType": "setting"
+    },
+    {
+      "title": "엘로이",
+      "status": "진행 중",
+      "type": "인물",
+      "subtype": "헌터",
+      "region": "-",
+      "created_at": "-",
+      "updated_at": "-",
+      "docType": "setting"
+    },
+    {
+      "title": "요한",
+      "status": "진행 중",
+      "type": "인물",
+      "subtype": "오퍼레이터",
+      "region": "-",
+      "created_at": "-",
+      "updated_at": "-",
+      "docType": "setting"
+    },
+    {
+      "title": "은림",
+      "status": "진행 중",
+      "type": "인물",
+      "subtype": "헌터",
+      "region": "-",
+      "created_at": "-",
+      "updated_at": "-",
+      "docType": "setting"
+    },
+    {
+      "title": "카야",
+      "status": "진행 중",
+      "type": "인물",
+      "subtype": "헌터/오퍼레이터",
+      "region": "-",
+      "created_at": "-",
+      "updated_at": "-",
+      "docType": "setting"
+    },
+    {
+      "title": "케프리",
+      "status": "진행 중",
+      "type": "인물",
+      "subtype": "헌터",
+      "region": "-",
+      "created_at": "-",
+      "updated_at": "-",
+      "docType": "setting"
+    },
+    {
+      "title": "정제사",
+      "status": "진행 중",
+      "type": "주요 개념",
+      "subtype": "시스템",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "드루이드",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "디바인 브링어",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "리퍼",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "메카닉",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "비스트 테이머",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "서머너",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "소서리스&소서러",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "슬레이어",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "알케미스트",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "어쎄신",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "에스퍼",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "오퍼레이터",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "위자드",
+      "status": "진행 중",
+      "type": "클래스",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "클래스",
+      "status": "진행 중",
+      "type": "주요 개념",
+      "subtype": "시스템",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "클랜",
+      "status": "진행 중",
+      "type": "주요 개념",
+      "subtype": "시스템",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "title": "헌터",
+      "status": "진행 중",
+      "type": "주요 개념",
+      "subtype": "시스템",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "status": "진행 중",
+      "type": "개념",
+      "subtype": "",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "status": "진행 중",
+      "type": "개념",
+      "subtype": "",
+      "region": "",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    },
+    {
+      "status": "진행 중",
+      "type": "개념",
+      "created_at": "",
+      "updated_at": "",
+      "docType": "setting"
+    }
+  ]
+}
