@@ -1,5 +1,8 @@
 ---
 title: '기년법: Ausvalen Cataclysm (BAC/AAC)'
+uuid: '305e4948-a62e-44b6-8d50-1eefac5e8203'
+docType: 'setting'
+thumbnail: ''
 type: '개념'
 subtype: '주요'
 region: '범대륙'

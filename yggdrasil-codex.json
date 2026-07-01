@@ -2,6 +2,9 @@
   "deity": [
     {
       "title": "가뭄과 기근의 신  우르투스",
+      "uuid": "c5c80a15-5fec-4b36-a4fc-bba8bd806eda",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/가뭄과_기근의_신.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "악신",
@@ -22,11 +25,13 @@
       "created_at": "2026년 4월 25일 오전 8:10",
       "updated_at": "2026년 6월 10일 오전 1:59",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "가정과 평안의 여신 베스티아",
+      "uuid": "7076d431-e8be-427c-8546-30a868390003",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/가정과_평안의_여신.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -46,11 +51,13 @@
       "created_at": "2026년 4월 28일 오전 4:21",
       "updated_at": "2026년 6월 8일 오전 3:06",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "거지와 방랑자의 신 미그라",
+      "uuid": "316eea5f-0e8e-4984-a888-2ab6984a9c1a",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/거지와_방랑자의_신_미그라.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -68,11 +75,13 @@
       "created_at": "2026년 4월 21일 오전 3:13",
       "updated_at": "2026년 6월 9일 오전 2:26",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "거짓과 기만의 신 로칸",
+      "uuid": "0302995b-c929-4d88-a25d-6893d9ec6284",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/거짓과_기만의_신_로칸.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "악신",
@@ -92,11 +101,13 @@
       "created_at": "2026년 4월 21일 오전 3:13",
       "updated_at": "2026년 6월 9일 오전 1:35",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "검은 갑각의 신 카르카노스",
+      "uuid": "cc723fa3-cc5d-4e4d-9a42-a0af990bc41d",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/검은_갑각의_신_카르카노스.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -115,11 +126,13 @@
       "created_at": "2026년 6월 19일 오전 7:17",
       "updated_at": "2026년 6월 19일 오전 9:41",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "검은 밤의 파수자, 어둠과 비밀의 신 현야신군",
+      "uuid": "5f710c24-8cf8-4f99-9857-04b397e43d00",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/검은_밤의_파수자_어둠과_비밀의_신_현야신군.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -138,11 +151,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오후 7:20",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "격류와 흐름, 강의 신 리브라스",
+      "uuid": "54a720be-cada-43ef-a928-255052e9106b",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/격류와_흐름_강의_신_리브라스.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -162,11 +177,13 @@
       "created_at": "2026년 4월 30일 오후 1:18",
       "updated_at": "2026년 6월 10일 오전 1:09",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "경계와 숨김, 안개의 신 노르시스",
+      "uuid": "f307ea08-7c29-48b5-addb-f5c6b104f1f2",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/경계와_숨김_안개의_신_노르시스.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -186,11 +203,13 @@
       "created_at": "2026년 4월 30일 오후 1:18",
       "updated_at": "2026년 6월 10일 오전 1:18",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "고요함과 멈춤, 호수의 여신 미레노아",
+      "uuid": "5aeb10be-ee48-4ecb-8600-57b90e1a02ad",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/고요함과_멈춤_호수의_여신_미레노아.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -209,11 +228,13 @@
       "created_at": "2026년 4월 30일 오후 1:18",
       "updated_at": "2026년 6월 9일 오전 1:50",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "고통과 절망의 신 페레고르",
+      "uuid": "b7b7d7d1-a6db-433c-925c-a19185e17e7f",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/광기와_고통의_신_페레고르.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "악신",
@@ -232,11 +253,13 @@
       "created_at": "2026년 4월 23일 오전 2:59",
       "updated_at": "2026년 6월 10일 오전 2:23",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "곡식의 어머니, 농경과 생명의 여신 농황신후",
+      "uuid": "782f825a-a751-4d6f-9d0c-20fb8cd64db3",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/곡식의_어머니,_농경과_생명의_여신_농황신후.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "선신",
@@ -255,11 +278,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오후 5:13",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "공포와 허기, 검은 안개의 신 앙그라",
+      "uuid": "e06a4876-b2c4-4d87-b76e-595e1827563d",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/공포와_검은_안개의_신_앙그라.webp",
       "status": "완료",
       "rank": "초신격",
       "alignment": "악신",
@@ -287,11 +312,13 @@
       "created_at": "2026년 4월 29일 오전 3:44",
       "updated_at": "2026년 6월 8일 오전 2:02",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "교역과 항로, 상단의 여신 프레티아",
+      "uuid": "3b99fc0e-7b22-43fe-8465-6a87c506d233",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/교역과_항로_상단의_여신_프레티아.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -311,11 +338,13 @@
       "created_at": "2026년 4월 28일 오전 11:48",
       "updated_at": "2026년 6월 8일 오전 2:30",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "궁사와 사냥꾼의 신 바르니오",
+      "uuid": "3dd2a718-7f1a-4043-b179-6cdc1907b1cd",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/궁사와_사냥꾼의_신_바르니오.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -334,11 +363,13 @@
       "created_at": "2026년 4월 21일 오전 3:14",
       "updated_at": "2026년 6월 9일 오후 7:05",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "균류와 버섯, 부식의 신 로타비아스",
+      "uuid": "1f18e131-a38b-43b2-871b-b6624f3232b7",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/균류와_버섯_부식의_신_로타비아스.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -358,11 +389,13 @@
       "created_at": "2026년 4월 30일 오후 1:18",
       "updated_at": "2026년 6월 10일 오전 1:04",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "그늘과 휴식, 구름의 신 오르네스",
+      "uuid": "4c1fe4d6-c922-4ee7-a301-06568e77258d",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/그늘과_휴식_구름의_신_오르네스.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -382,11 +415,13 @@
       "created_at": "2026년 4월 30일 오후 1:18",
       "updated_at": "2026년 6월 9일 오전 1:52",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "그림자와 도둑의 신 녹티스",
+      "uuid": "9a710402-1a60-4415-a79a-f545dd8a6133",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/그림자와_도둑의_신_녹티스.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -406,11 +441,13 @@
       "created_at": "2026년 4월 23일 오전 4:47",
       "updated_at": "2026년 6월 10일 오전 1:26",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "금속과 광물의 신 칼바르",
+      "uuid": "fa484e06-c506-4850-ab36-0c2ab6879c03",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/금속과_광물의_신_칼바르.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -430,11 +467,13 @@
       "created_at": "2026년 4월 30일 오후 1:18",
       "updated_at": "2026년 6월 10일 오전 1:12",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "기억과 망각의 여신 오블리레테",
+      "uuid": "9fe224ec-1589-4d47-9735-1dc80e576b83",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/기억과_망각의_여신_오블리레테.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -453,11 +492,13 @@
       "created_at": "2026년 4월 21일 오전 3:14",
       "updated_at": "2026년 6월 10일 오전 12:55",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "길을 여는 바람, 폭풍과 여행의 신 풍백장군",
+      "uuid": "0b00f860-a770-4d0c-b7d9-6eda3d883d28",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/길을_여는_바람_폭풍과_여행의_신_풍백장군.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -476,11 +517,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오후 7:20",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "깊은 심연의 이드리크",
+      "uuid": "52c22cb1-c037-4fc2-9161-b45af8a04d01",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/깊은_심연의_신_이드리크.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -500,11 +543,13 @@
       "created_at": "2026년 4월 21일 오전 3:14",
       "updated_at": "2026년 6월 8일 오후 10:37",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "달그림자의 예언자, 꿈과 운명의 여신 월영성모",
+      "uuid": "d4d72fab-743a-4958-895c-17f00b2c3991",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/달그림자의_예언자_꿈과_운명의_여신_월영성모.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -523,11 +568,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오후 7:20",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "대지의 신 르기안",
+      "uuid": "1db73534-aa5a-490b-b061-e9f468b78431",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/대지의_신_르기안.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -546,11 +593,13 @@
       "created_at": "2026년 4월 19일 오전 8:59",
       "updated_at": "2026년 6월 8일 오후 11:20",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "도박과 탐욕, 중독의 신 벨투스",
+      "uuid": "03afdd78-a594-44d4-88aa-80c1899c16bf",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/도박과_탐욕_중독의_신_벨투스.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "악신",
@@ -570,11 +619,13 @@
       "created_at": "2026년 4월 28일 오전 11:48",
       "updated_at": "2026년 6월 10일 오전 1:40",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "독빛과 표류혼의 여신 베살리아",
+      "uuid": "9d3b6634-b6ae-4dfc-8f75-5d4f791a8bb1",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/독빛과_표류혼의_여신_베살리아.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -593,11 +644,13 @@
       "created_at": "2026년 6월 19일 오전 7:18",
       "updated_at": "2026년 6월 19일 오전 9:40",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "동방의 새싹용신 창림청룡대성(蒼林靑龍大聖)",
+      "uuid": "e3cd09d9-31bb-4749-842c-48629b6e26c0",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/동방의_새싹용신_창림청룡대성(蒼林靑龍大聖).webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -617,11 +670,13 @@
       "created_at": "2026년 6월 3일 오후 5:52",
       "updated_at": "2026년 6월 4일 오전 2:45",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "드워프와 대장장이의 신 칼림보르",
+      "uuid": "ef770c07-d618-4a18-91d7-3bc3c57b79de",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/드워프와_대장장이의_신_칼림보르.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -642,11 +697,13 @@
       "created_at": "2026년 4월 26일 오전 8:52",
       "updated_at": "2026년 6월 8일 오전 3:08",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "만권의 기록자, 문자와 지식의 신 창문성군",
+      "uuid": "26b6734f-7ed9-460e-988f-d8f2923b05b5",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/만권의_기록자,_문자와_지식의_신_창문성군.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -666,11 +723,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 10일 오전 2:50",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "만마의 주인, 역천의 신 천마",
+      "uuid": "078005a8-96d2-4b85-96b9-b10bbfceed46",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/만마의_주인,_역천의_신_천마.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -692,11 +751,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오후 5:14",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "매혹과 색욕의 여신 루스튀아",
+      "uuid": "edd4558a-1300-46bd-beae-02b4165d6a20",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/매혹과_색욕의_여신.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "악신",
@@ -717,11 +778,13 @@
       "created_at": "2026년 4월 28일 오전 4:33",
       "updated_at": "2026년 6월 10일 오전 1:49",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "맹독과 늪의 여신 베노미라",
+      "uuid": "79900fa6-0f45-41c3-82de-4386c4026a7d",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/맹독과_늪의_여신_베노미라.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -741,11 +804,13 @@
       "created_at": "2026년 4월 29일 오전 5:02",
       "updated_at": "2026년 6월 9일 오전 3:21",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "맹세의 집행자, 법과 형벌의 신 법도천군",
+      "uuid": "94094ae9-0823-4379-8e92-e23c201cf304",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/맹세의_집행자_법과_형벌의_신_법도천군.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -764,11 +829,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오전 3:29",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "명부의 재판관, 죽음과 윤회의 신 염라",
+      "uuid": "23cb0ac1-2b37-4c91-ab46-b39521bd8765",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/명부의_재판관_죽음과_윤회의_신_염라.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -788,11 +855,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오후 5:13",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "모래와 사막, 인내의 여신 사하르",
+      "uuid": "e8b70d84-7486-41f1-ae7e-b40e1b4f0688",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/모래와_사막_인내의_여신_사하르.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -811,11 +880,13 @@
       "created_at": "2026년 4월 29일 오후 11:39",
       "updated_at": "2026년 6월 9일 오전 3:30",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "모험과 귀환, 개척의 신 발타스",
+      "uuid": "b4f36ede-2a5c-4ddc-bfdc-f511bcffb780",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/모험과_귀환_개척의_신_발타스.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -836,11 +907,13 @@
       "created_at": "2026년 5월 1일 오전 6:40",
       "updated_at": "2026년 6월 8일 오후 8:37",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "물길의 수호자, 수로와 조운의 신 하백용왕",
+      "uuid": "7a8f7c38-3ac8-43f5-b825-4da311338c7b",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/물길의_수호자,_수로와_조운의_신_하백용왕.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -860,11 +933,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 10일 오전 2:58",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "물의 여신 쿠아리아",
+      "uuid": "84f6b175-ade2-49d1-90f6-234c51358c91",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/물의_여신_쿠아리아.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -885,11 +960,13 @@
       "created_at": "2026년 4월 19일 오전 8:48",
       "updated_at": "2026년 6월 8일 오후 11:11",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "바다의 여신 칼라디엘",
+      "uuid": "7da20190-563e-4722-b238-255baf1712cc",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/바다의_여신_칼라디엘.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -910,11 +987,13 @@
       "created_at": "2026년 4월 21일 오전 3:15",
       "updated_at": "2026년 6월 8일 오후 11:27",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "바람의 신 아누르",
+      "uuid": "7ee16663-1785-4706-ad76-475983b65fb0",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/바람의_신_아누르.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -934,11 +1013,13 @@
       "created_at": "2026년 4월 19일 오전 9:00",
       "updated_at": "2026년 6월 8일 오후 11:25",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "발명과 번뜩임, 도약의 신 볼티르",
+      "uuid": "0e71b704-6c95-4b74-87cf-65b2776dcb30",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/발명과_번뜩임_도약의_신_볼티르.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -960,11 +1041,13 @@
       "created_at": "2026년 5월 1일 오전 6:40",
       "updated_at": "2026년 6월 9일 오전 1:39",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "백염의 주인, 태양과 정화의 여신 일륜천후",
+      "uuid": "970fa6ce-e993-4996-96d9-4d197921ad1c",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/백염의_주인_태양과_정화의_여신_일륜천후.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "선신",
@@ -983,11 +1066,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오전 2:34",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "백초의 현자, 의술과 해독의 신 약왕진인",
+      "uuid": "ae2b1a95-0f8c-4dd3-9be8-e6383d845c40",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/백초의_현자,_의술과_해독의_신_약왕진인.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "선신",
@@ -1006,11 +1091,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오전 5:41",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "번개와 천둥의 신 아르게스",
+      "uuid": "d8a2dec5-748f-4e33-8be6-b0d3d2b54600",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/번개와_천둥의_신_아르게스.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -1029,11 +1116,13 @@
       "created_at": "2026년 4월 25일 오전 8:52",
       "updated_at": "2026년 6월 9일 오전 2:04",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "번영과 거래, 투자의 신 아바리온",
+      "uuid": "99608e3b-3a7b-4560-9ee1-2ad8622e06ec",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/화폐와_탐욕의_신_아바리온.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "회색신",
@@ -1054,11 +1143,13 @@
       "created_at": "2026년 4월 21일 오전 3:30",
       "updated_at": "2026년 6월 9일 오전 12:02",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "부패와 질병의 여신 모르간",
+      "uuid": "d517ae1b-65e9-4208-8677-c25dd0b0bbb9",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/부패와_질병의_여신_모르간.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "악신",
@@ -1076,11 +1167,13 @@
       "created_at": "2026년 4월 21일 오전 3:15",
       "updated_at": "2026년 6월 10일 오전 2:31",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "북방의 얼음수호군 현명진무대군(玄冥眞武大君)",
+      "uuid": "d7d5050a-8142-40bc-be23-5e1f4a4a85e8",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/북방의_얼음수호군_현명진무대군(玄冥眞武大君).webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -1099,11 +1192,13 @@
       "created_at": "2026년 6월 3일 오후 5:52",
       "updated_at": "2026년 6월 4일 오전 3:03",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "분노와 복수의 신 자르카스",
+      "uuid": "3684a7b7-42fa-431b-8b40-2c559c8c67dd",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/분노와_복수의_신.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "악신",
@@ -1123,11 +1218,13 @@
       "created_at": "2026년 4월 28일 오전 4:22",
       "updated_at": "2026년 6월 10일 오전 1:44",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "불과 열기의 신 아그니",
+      "uuid": "e103c7b8-e781-4158-8769-730c0d4ab4a1",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/불과_열기의_신_아그니.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -1146,11 +1243,13 @@
       "created_at": "2026년 4월 19일 오전 8:29",
       "updated_at": "2026년 6월 8일 오후 11:23",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "불행과 배신, 이간질의 여신 말리사",
+      "uuid": "ef73d46f-4951-4503-906d-0b3a7c0f3363",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/불행의_여신_말리사.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "악신",
@@ -1170,11 +1269,13 @@
       "created_at": "2026년 4월 23일 오후 8:28",
       "updated_at": "2026년 6월 10일 오전 2:16",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "붉은 해성의 여신 아스테리아",
+      "uuid": "41f56ba2-c3e6-49e2-8ee9-7e6dff031663",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/붉은_해성의_여신_아스테리아.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -1192,11 +1293,13 @@
       "created_at": "2026년 6월 19일 오전 7:17",
       "updated_at": "2026년 6월 19일 오전 9:36",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "비구름의 군주, 강과 풍요의 신 청룡대제",
+      "uuid": "8bbbfa67-185c-47a4-ab0d-65c149f9109c",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/비구름의_군주,_강과_풍요의_신_청룡대제.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -1216,11 +1319,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오전 6:08",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "비와 눈, 폭풍우의 여신 이리디아",
+      "uuid": "ef34af0f-8fe9-44ff-8624-ef6395e708f5",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/비와_눈_폭풍우의_여신_이리디아.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -1240,11 +1345,13 @@
       "created_at": "2026년 4월 25일 오전 8:52",
       "updated_at": "2026년 6월 9일 오전 2:23",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "빛의 신 룬다르",
+      "uuid": "7b863c7e-2a67-4bca-baf6-e4b63113df77",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/빛의_신_룬다르.webp",
       "status": "완료",
       "rank": "주신격",
       "alignment": "선신",
@@ -1265,11 +1372,13 @@
       "created_at": "2026년 4월 19일 오전 7:57",
       "updated_at": "2026년 6월 8일 오전 2:05",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "사랑과 미의 여신 베누아",
+      "uuid": "819d4ff5-412c-4613-ac52-77620e045c10",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/사랑과_미의_여신_베누아.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -1288,11 +1397,13 @@
       "created_at": "2026년 4월 27일 오후 9:49",
       "updated_at": "2026년 6월 8일 오전 2:56",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "산맥의 신 몬타누스",
+      "uuid": "89bcbabb-06da-4af0-b737-56ba025c6b38",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/산맥의_신_몬타누스.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -1313,11 +1424,13 @@
       "created_at": "2026년 4월 21일 오전 3:18",
       "updated_at": "2026년 6월 9일 오후 7:05",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "생명과 질서의 빛, 세계수의 여신 위그드라실",
+      "uuid": "d1acf92f-deb3-4b14-9048-5b144b3bc4c0",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/생명과_질서의_빛_세계수의_여신_위그드라실.webp",
       "status": "완료",
       "rank": "초신격",
       "alignment": "선신",
@@ -1345,11 +1458,13 @@
       "created_at": "2026년 4월 29일 오전 3:53",
       "updated_at": "2026년 6월 8일 오전 2:03",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "생명의 여신 실바누스",
+      "uuid": "29b095c2-ef1c-4b75-a882-51a6c79b3fa9",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/생명의_여신_실바누스.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -1370,11 +1485,13 @@
       "created_at": "2026년 4월 19일 오전 8:52",
       "updated_at": "2026년 6월 8일 오후 11:03",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "서방의 강철호신 철악백호장군(鐵嶽白虎將軍)",
+      "uuid": "12dfba57-ad5f-4af8-8e72-d2a256249c9d",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/서방의_강철호신_철악백호장군(鐵嶽白虎將軍).webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -1393,11 +1510,13 @@
       "created_at": "2026년 6월 3일 오후 5:52",
       "updated_at": "2026년 6월 4일 오전 3:00",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "서풍의 판정자, 서풍백룡진군(西風白龍眞君)",
+      "uuid": "4f485b10-893a-43b9-a46f-513bb3be4e4d",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/서풍의_판정자_서풍백룡진군(西風白龍眞君).webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -1416,11 +1535,13 @@
       "created_at": "2026년 6월 3일 오후 6:24",
       "updated_at": "2026년 6월 4일 오전 1:33",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "성난 파도의 장수, 폭풍과 해전의 신 해뢰군",
+      "uuid": "f4819496-e4ea-4838-9fcf-b3d58468af1a",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/성난_파도의_장수_폭풍과_해전의_신_해뢰군.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -1439,11 +1560,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오후 5:49",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "쇠불의 장인, 대장간과 제련의 신 야철성군",
+      "uuid": "613f471f-0db4-47a7-9b6c-82dfc8304b0a",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/쇠불의_장인_대장간과_제련의_신_야철성군.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -1462,11 +1585,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오후 5:13",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "숲과 초목, 초원의 여신 아르데아",
+      "uuid": "50b7163f-a43d-41d5-9479-c3a36ecc0a4e",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/숲과_초목_초원의_여신_아르데아.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -1485,11 +1610,13 @@
       "created_at": "2026년 4월 30일 오후 1:14",
       "updated_at": "2026년 6월 9일 오전 3:27",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "승천 실패의 흉조, 흑린망룡(黑鱗亡龍)",
+      "uuid": "3812916f-d6aa-4063-b656-a4c253d32b57",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/승천_실패의_흉조_흑린망룡(黑鱗亡龍).webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "악신",
@@ -1508,11 +1635,13 @@
       "created_at": "2026년 6월 3일 오후 6:24",
       "updated_at": "2026년 6월 4일 오전 1:01",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "시공간의 신 아이온",
+      "uuid": "72f43d59-f226-4653-ab68-5a3be005499a",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/시공산의_신_아이온.webp",
       "status": "완료",
       "rank": "주신격",
       "alignment": "선신",
@@ -1534,11 +1663,13 @@
       "created_at": "2026년 4월 21일 오전 3:31",
       "updated_at": "2026년 6월 8일 오전 2:10",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "신비의 여신 미스티아",
+      "uuid": "ba4982d3-1907-4ef4-bb81-ea7a67870394",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/신비의_여신_미스티아.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -1558,11 +1689,13 @@
       "created_at": "2026년 4월 21일 오전 3:19",
       "updated_at": "2026년 6월 8일 오후 10:33",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "신산의 호령자, 산악과 수호의 신 백악산군",
+      "uuid": "84258e52-3262-4a95-890b-64c134dc88ea",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/신산의_호령자_산악과_수호의_신_백악산군.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -1581,11 +1714,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오전 6:07",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "아득한 혼돈의 카우나스",
+      "uuid": "632bc0d5-a366-4ccc-a6fb-54fa0510ea11",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/아득한_혼돈의_카우나스.webp",
       "status": "완료",
       "rank": "?????",
       "alignment": "?????",
@@ -1600,11 +1735,13 @@
       "created_at": "2026년 4월 28일 오전 3:42",
       "updated_at": "2026년 6월 9일 오전 1:42",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "안식과 죽음의 신 솜누스",
+      "uuid": "b2961aea-1174-408c-9d93-e4359e709256",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/안식과_죽음의_신.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -1624,11 +1761,13 @@
       "created_at": "2026년 4월 23일 오전 4:55",
       "updated_at": "2026년 6월 8일 오후 11:45",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "야성과 짐승의 신 카르녹",
+      "uuid": "a855c703-dfc6-4f84-abbe-5f8b81b097fd",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/야성과_짐승의_신.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -1648,11 +1787,13 @@
       "created_at": "2026년 4월 28일 오전 4:22",
       "updated_at": "2026년 6월 9일 오전 2:01",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "약초와 의술의 신 발란",
+      "uuid": "a96fcef9-38a5-4a8b-a2ca-208b5b0e1ee2",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/약초와_의술의_신_발란.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -1672,11 +1813,13 @@
       "created_at": "2026년 4월 21일 오전 3:20",
       "updated_at": "2026년 6월 8일 오후 8:44",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "어둠의 신 에레보스",
+      "uuid": "7f3020f1-68a8-4709-b5eb-b6d14f6d04b6",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/어둠의_신_에레보스.webp",
       "status": "완료",
       "rank": "주신격",
       "alignment": "선신",
@@ -1693,11 +1836,13 @@
       "created_at": "2026년 4월 19일 오전 8:17",
       "updated_at": "2026년 6월 8일 오전 2:21",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "언어와 문자, 기록의 신 로기온",
+      "uuid": "f83d4a56-eddc-431e-a3b7-e594eebc43d4",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/언어와_문자_기록의_신_로기온.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -1716,11 +1861,13 @@
       "created_at": "2026년 4월 28일 오전 11:48",
       "updated_at": "2026년 6월 9일 오전 3:33",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "얼음과 냉기, 혹한의 여신 탈라샤",
+      "uuid": "bc4f81bf-51dd-4cfe-a6ab-4351416b98d8",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/혹한과_겨울의_여신_탈라샤.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "회색신",
@@ -1739,11 +1886,13 @@
       "created_at": "2026년 4월 27일 오후 9:19",
       "updated_at": "2026년 6월 8일 오후 11:48",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "역천과 언데드의 신 네크룸",
+      "uuid": "a179ed4d-f7fe-44eb-928e-9a3812651842",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/역천과_언데드의_신_네크룸.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "악신",
@@ -1762,11 +1911,13 @@
       "created_at": "2026년 4월 23일 오전 4:52",
       "updated_at": "2026년 6월 9일 오전 1:14",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "예술과 음유시인의 신 리라온",
+      "uuid": "1d98d1c1-af9b-41bc-9ab1-6f1af72574b9",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/예술과_음유시인의_신.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -1785,11 +1936,13 @@
       "created_at": "2026년 4월 28일 오전 4:42",
       "updated_at": "2026년 6월 8일 오전 2:52",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "왕조의 흉길을 울리는 금오 금오태자(金烏太子)",
+      "uuid": "4606849d-9620-4bc0-8e58-a91a4af59567",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/왕조의_흉길을_울리는_금오_금오태자(金烏太子).webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -1809,11 +1962,13 @@
       "created_at": "2026년 6월 3일 오후 5:52",
       "updated_at": "2026년 6월 4일 오전 1:31",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "용의 숨결과 비늘의 신 드라카드",
+      "uuid": "84eadd23-8abb-43b5-898d-b61fdec88f07",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/용의_숨결과_비늘의_신.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -1833,11 +1988,13 @@
       "created_at": "2026년 4월 25일 오전 8:15",
       "updated_at": "2026년 6월 9일 오후 7:04",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "운명의 세 여신(우르다, 베르다, 나이트라)",
+      "uuid": "ad9f452b-ef45-4bf7-a20d-3ac505b23abb",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/운명의_세_여신_(우르다_베르다_나이트라).webp",
       "status": "완료",
       "rank": "주신격",
       "alignment": "선신",
@@ -1860,11 +2017,13 @@
       "created_at": "2026년 4월 21일 오전 3:11",
       "updated_at": "2026년 6월 8일 오전 2:19",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "인연의 미궁을 읽는 천호 구현천호낭랑(九玄天狐娘娘)",
+      "uuid": "7a0a5990-c65a-4581-aca8-fe7605a4432d",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/인연의_미궁을_읽는_천호_구현천호낭랑(九玄天狐娘娘).webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -1883,11 +2042,13 @@
       "created_at": "2026년 6월 3일 오후 5:52",
       "updated_at": "2026년 6월 4일 오전 1:12",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "장례와 매장, 애도의 신 오비투스",
+      "uuid": "c9799c78-ff0c-495a-bc2c-f7260f1d400a",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/장례와_매장_애도의_신_오비투스.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -1906,11 +2067,13 @@
       "created_at": "2026년 4월 28일 오전 11:48",
       "updated_at": "2026년 6월 9일 오전 2:10",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "재앙의 열기, 홍련적룡군(紅蓮赤龍君)",
+      "uuid": "687e382e-3180-46e8-b310-83cb7c9384c5",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/재앙의_열기_홍련적룡군(紅蓮赤龍君).webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -1929,11 +2092,13 @@
       "created_at": "2026년 6월 3일 오후 6:24",
       "updated_at": "2026년 6월 4일 오전 2:02",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "재와 연기의 여신 애신드라",
+      "uuid": "1ec73e24-caaa-46c7-8082-204919f726d8",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/재와_연기의_여신_애신드라.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -1952,11 +2117,13 @@
       "created_at": "2026년 4월 30일 오후 1:15",
       "updated_at": "2026년 6월 10일 오전 1:21",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "잿더미의 부활조 염화주작천후(炎華朱雀天后)",
+      "uuid": "91de539e-f7e3-45b0-9894-67bc7cfc3977",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/잿더미의_부활조_염화주작천후(炎華朱雀天后).webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -1976,11 +2143,13 @@
       "created_at": "2026년 6월 3일 오후 5:52",
       "updated_at": "2026년 6월 4일 오전 3:00",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "전쟁과 방패, 수호의 여신 팔라기아",
+      "uuid": "77ffea73-696f-47b2-95a4-4601cb672ecf",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/전쟁과_방패_수호의_여신_팔라기아.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -2000,11 +2169,13 @@
       "created_at": "2026년 4월 28일 오전 11:48",
       "updated_at": "2026년 6월 8일 오전 2:32",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "전쟁과 용기, 영웅의 신 티리안",
+      "uuid": "c80dd1e3-94d9-45f5-8de3-5fd771187374",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/전쟁과_용기_영웅의_신_티리안.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -2024,11 +2195,13 @@
       "created_at": "2026년 4월 21일 오전 3:20",
       "updated_at": "2026년 6월 8일 오후 8:34",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "전쟁과 전술, 책략의 신 시지아스",
+      "uuid": "05e12dff-57e5-4465-94fe-64de7083522d",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/전쟁과_전술_책략의_신_시지아스.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -2048,11 +2221,13 @@
       "created_at": "2026년 4월 28일 오전 11:48",
       "updated_at": "2026년 6월 9일 오전 1:54",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "전쟁과 정복, 포학의 신 볼로고르",
+      "uuid": "c18312f2-dcda-44d1-8335-0044d3eb0ae5",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/전쟁과_정복_포학의_신.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "악신",
@@ -2071,11 +2246,13 @@
       "created_at": "2026년 4월 28일 오전 4:49",
       "updated_at": "2026년 6월 9일 오전 1:09",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "전쟁과 파괴의 신 바르툼",
+      "uuid": "10ad1ee3-f641-4b42-9d81-0824244d1839",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/전쟁과_파괴의_신_바르툼.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "회색신",
@@ -2095,11 +2272,13 @@
       "created_at": "2026년 4월 21일 오전 3:25",
       "updated_at": "2026년 6월 9일 오전 12:12",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "지맥의 중심축, 중악황룡제군(中嶽黃龍帝君)",
+      "uuid": "54a69cfe-c0b9-4a73-9e9a-d94531db8fd3",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/지맥의_중심축_중악황룡제군(中嶽黃龍帝君).webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -2118,11 +2297,13 @@
       "created_at": "2026년 6월 3일 오후 6:24",
       "updated_at": "2026년 6월 4일 오전 3:27",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "지식과 지혜의 신 그녹시아스",
+      "uuid": "199bf166-016a-4605-bd78-52ed760a0a06",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/지식과_지혜의_신_그녹시아스.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -2144,11 +2325,13 @@
       "created_at": "2026년 4월 21일 오전 3:31",
       "updated_at": "2026년 6월 8일 오전 3:30",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "지하세계의 여신 움브라",
+      "uuid": "fa096352-add4-4d77-b1ac-804cd682cee7",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/지하세계의_여신_움브라_(1).webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "회색신",
@@ -2167,11 +2350,13 @@
       "created_at": "2026년 4월 24일 오전 8:30",
       "updated_at": "2026년 6월 8일 오후 11:58",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "진주길의 여신 네레이온",
+      "uuid": "31b39470-9eb7-4285-9be7-452c7f2c2280",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/진주길의_여신_네레이온.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -2191,11 +2376,13 @@
       "created_at": "2026년 6월 19일 오전 7:18",
       "updated_at": "2026년 6월 19일 오전 9:39",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "질서와 법률의 신 유스토르",
+      "uuid": "c24f07c6-c01f-4fe9-9c30-b6f2bf8fbd58",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/질서와_법률의_신_유스토르.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -2217,11 +2404,13 @@
       "created_at": "2026년 4월 28일 오전 5:47",
       "updated_at": "2026년 6월 8일 오전 2:47",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "징벌과 복수의 신 말레디크",
+      "uuid": "23e4d0d2-7e69-411f-9ff7-483ec77d04d9",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/징벌과_복수의_신_말레디크.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -2242,11 +2431,13 @@
       "created_at": "2026년 4월 26일 오전 11:34",
       "updated_at": "2026년 6월 8일 오전 2:23",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "천명의 주재자, 하늘 질서의 신 옥황",
+      "uuid": "4630ef7d-4f95-477c-8605-29063b5b9c67",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/천명의_주재자_하늘_질서의_신_옥황.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -2266,11 +2457,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오후 5:12",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "축제와 유흥의 신 바카레스",
+      "uuid": "df97b0c8-44e7-42a1-872f-b77a1596cffd",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/축제와_유흥의_신.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -2290,11 +2483,13 @@
       "created_at": "2026년 4월 28일 오전 4:33",
       "updated_at": "2026년 6월 9일 오전 3:36",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "침몰한 비밀의 왕, 심연흑룡왕(深淵黑龍王)",
+      "uuid": "0fce3cf8-b785-43f1-b1cb-cd5b931c8336",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/침몰한_비밀의_왕_심연흑룡왕(深淵黑龍王).webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "회색신",
@@ -2313,11 +2508,13 @@
       "created_at": "2026년 6월 3일 오후 6:24",
       "updated_at": "2026년 6월 4일 오전 12:56",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "탄생과 소멸, 순환의 신 르비우스",
+      "uuid": "b5318bca-1ec8-4c46-8cdd-d3f5a5be793a",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/탄생과_소멸_순환의_신_르비우스.webp",
       "status": "완료",
       "rank": "주신격",
       "alignment": "선신",
@@ -2340,11 +2537,13 @@
       "created_at": "2026년 4월 21일 오전 3:27",
       "updated_at": "2026년 6월 8일 오전 2:16",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "태양의 신 솔라리스 / 달의 여신 루나리스",
+      "uuid": "ad3e6aaa-4608-47a3-87c4-8113145ba29f",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/태양의_신_솔라리스.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -2366,11 +2565,13 @@
       "created_at": "2026년 4월 19일 오전 8:37",
       "updated_at": "2026년 6월 8일 오후 10:58",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "통치와 권위의 신 오르다누스",
+      "uuid": "ce231c0a-2ffe-4596-95bb-a32bdc1c4010",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/질서와_권위의_신_오르다누스.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "회색신",
@@ -2389,11 +2590,13 @@
       "created_at": "2026년 4월 21일 오전 3:26",
       "updated_at": "2026년 6월 9일 오전 12:15",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "풍요와 농경의 여신 하르비아",
+      "uuid": "331648b8-f4c2-4a1a-82c3-6c744ff263f7",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/풍요와_농경의_여신.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -2412,11 +2615,13 @@
       "created_at": "2026년 4월 25일 오전 5:55",
       "updated_at": "2026년 6월 8일 오전 3:21",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "피맹세의 추적자, 원한과 복수의 신 암향신군",
+      "uuid": "dde2e90c-4a3d-4bdb-bd8b-72d1714b7c01",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/피맹세의_추적자_원한과_복수의_신_암향신군.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "악신",
@@ -2434,11 +2639,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오전 6:05",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "피와 살육의 신 바르칼라인",
+      "uuid": "4c838459-36af-4f2b-a5f7-aa19d76c47ea",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/피와_살육의_신_바르칼라인.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "악신",
@@ -2457,11 +2664,13 @@
       "created_at": "2026년 4월 21일 오전 3:28",
       "updated_at": "2026년 6월 9일 오전 1:32",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "하늘의 신 아이테리온",
+      "uuid": "ae091e02-2db5-401a-a90a-4bf719a582ca",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/하늘의_신_아이테리온.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -2480,11 +2689,13 @@
       "created_at": "2026년 4월 21일 오전 3:29",
       "updated_at": "2026년 6월 8일 오후 11:31",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "해충과 역병의 여신 벨로지아",
+      "uuid": "8de8dcab-f165-4335-8ab0-1e9f1992035c",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/해충과_역병의_여신_벨로지아.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "악신",
@@ -2505,11 +2716,13 @@
       "created_at": "2026년 4월 30일 오후 1:18",
       "updated_at": "2026년 6월 10일 오전 1:32",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "행운의 여신 찬티아",
+      "uuid": "207e70fb-174e-4e2a-a65f-e45cbcf85fd7",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/행운의_여신_찬티아.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -2528,11 +2741,13 @@
       "created_at": "2026년 4월 23일 오후 8:30",
       "updated_at": "2026년 6월 9일 오후 7:05",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "형언할 수 없는 미지의 화신",
+      "uuid": "796d2d95-cbf2-480d-af01-989ec4ff47a9",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/형언할_수_없는_미지의_화신.webp",
       "status": "완료",
       "rank": "?????",
       "alignment": "회색신",
@@ -2549,11 +2764,13 @@
       "created_at": "2026년 4월 24일 오후 2:07",
       "updated_at": "2026년 6월 9일 오전 1:46",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "혼길의 중재자, 무속과 접신의 여신 무령할미",
+      "uuid": "7f1975bf-c817-401c-9e39-5d626106d948",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/혼길의_중재자_무속과_접신의_여신_무령할미.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -2573,11 +2790,13 @@
       "created_at": "2026년 5월 21일 오전 12:11",
       "updated_at": "2026년 6월 3일 오후 5:39",
       "pantheon": false,
-      "cheongyeon_pantheon": true,
-      "docType": "deity"
+      "cheongyeon_pantheon": true
     },
     {
       "title": "화산의 신 불카르칸",
+      "uuid": "82e0652d-b832-4848-aaf0-7661d25241c3",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/화산의_신_불카르칸.webp",
       "status": "완료",
       "rank": "중신격",
       "alignment": "선신",
@@ -2597,11 +2816,13 @@
       "created_at": "2026년 4월 21일 오전 3:30",
       "updated_at": "2026년 6월 9일 오후 7:05",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "환상과 몽환의 여신 에테리아",
+      "uuid": "52ebe648-4d4c-4195-b894-6a4e8b000658",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/환상과_몽환의_여신_에테리아.webp",
       "status": "완료",
       "rank": "대신격",
       "alignment": "선신",
@@ -2620,11 +2841,13 @@
       "created_at": "2026년 4월 26일 오전 9:55",
       "updated_at": "2026년 6월 8일 오전 2:25",
       "pantheon": true,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     },
     {
       "title": "흑묵과 맹약의 신 오르시온",
+      "uuid": "a2dc92eb-2cea-4b91-96f3-1df93da982e2",
+      "docType": "deity",
+      "thumbnail": "룩스테라/이미지/신격/흑묵과_맹약의_신_오르시온.webp",
       "status": "완료",
       "rank": "소신격",
       "alignment": "회색신",
@@ -2644,1721 +2867,2080 @@
       "created_at": "2026년 6월 19일 오전 7:18",
       "updated_at": "2026년 6월 19일 오전 9:40",
       "pantheon": false,
-      "cheongyeon_pantheon": false,
-      "docType": "deity"
+      "cheongyeon_pantheon": false
     }
   ],
   "setting": [
     {
       "title": "개방",
+      "uuid": "2e8ca7d5-1083-4bf8-bf85-7cefbc50d010",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "초안",
       "created_at": "2026년 6월 28일",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "곤륜파",
+      "uuid": "bf56ff36-c4eb-4b26-90a1-762600555d09",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "초안",
       "created_at": "2026년 6월 28일",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "공동파",
+      "uuid": "7c7d5bf2-ae11-4850-a541-d7dca8c3f76e",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "초안",
       "created_at": "2026년 6월 28일",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "무당파",
+      "uuid": "14f24ac2-1646-44f1-a39d-823a5564d921",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "초안",
       "created_at": "2026년 6월 28일",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "무령당(巫靈堂)",
+      "uuid": "2c88a61f-b188-46ab-94f1-1d0dc417001f",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "문사원(文史院)",
+      "uuid": "484368e6-a44f-49ce-acbf-11c33f9e596a",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "백악호선문(白岳虎禪門)",
+      "uuid": "c28c3db5-a09b-44ba-9054-cccdd445d225",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "법도부(法度府)",
+      "uuid": "6a9c171d-d388-4ee5-8c44-86bfb79b2878",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "소림사",
+      "uuid": "6e7c9cf4-0504-4194-862e-c514acbf99a7",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "초안",
       "created_at": "2026년 6월 28일",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "수운선문(水運禪門)",
+      "uuid": "361c0488-96d9-4f32-9911-cf7743fb88b2",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "아미파",
+      "uuid": "1b7725bf-f758-420c-9606-d2a182f779e9",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "초안",
       "created_at": "2026년 6월 28일",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "암향루(暗香樓)",
+      "uuid": "724eae46-af77-4915-92a6-6b7b7fafabb1",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "약왕곡(藥王谷)",
+      "uuid": "c42a38e6-d399-4c9d-b84d-a87b60b9b3d9",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "월영궁(月影宮)",
+      "uuid": "26cd3024-9ea2-4499-9230-a4afa8f0a365",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "점창파",
+      "uuid": "c830e648-bb78-494e-b82a-29b2d5f37f11",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "초안",
       "created_at": "2026년 6월 28일",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "종남파",
+      "uuid": "bca945ab-5a6d-436e-be08-6683dde8f3f1",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "초안",
       "created_at": "2026년 6월 28일",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "천마신교",
+      "uuid": "e767bb91-6c75-4d56-8698-4796663920fb",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/천마신교.webp",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "완료",
       "created_at": "2026년 5월 21일 오전 12:11",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "청룡선문(靑龍禪門)",
+      "uuid": "75b4fca5-ee7b-42ab-b8b8-f1c99c1db221",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "청성파",
+      "uuid": "46ed0091-0ea1-4cfb-af3e-1033e2c38076",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "초안",
       "created_at": "2026년 6월 28일",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "풍로선문(風路禪門)",
+      "uuid": "15318fac-0f85-4168-b8be-a39e06c8ade2",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "하오문",
+      "uuid": "4fb64c57-3402-4800-ac47-89b4681570fb",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "초안",
       "created_at": "2026년 6월 28일",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "해뢰선문(海雷禪門)",
+      "uuid": "b6f0d1c8-e568-4dc0-8c58-2f97ede75902",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "화산파",
+      "uuid": "1c15dafb-a202-4cb9-8740-f491f0007e27",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "status": "초안",
       "created_at": "2026년 6월 28일",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "흑야회(黑夜會)",
+      "uuid": "31b35faa-e50b-4524-a1d8-84e3dc44b6ee",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "초안",
       "type": "단체",
       "subtype": "일반",
       "region": "청연",
       "created_at": "2026년 6월 28일 오후 7:42",
-      "updated_at": "2026년 6월 28일 오후 7:42",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 7:42"
     },
     {
       "title": "가호 사냥꾼",
+      "uuid": "043c365d-7e4d-459c-b34f-a198ed538642",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/가호_사냥꾼.webp",
       "type": "개념",
       "subtype": "일반",
       "status": "완료",
       "created_at": "2026년 4월 29일 오전 4:29",
-      "updated_at": "2026년 4월 30일 오후 12:11",
-      "docType": "setting"
+      "updated_at": "2026년 4월 30일 오후 12:11"
     },
     {
       "title": "갑각요새국 카르키논",
+      "uuid": "77d66a59-8b98-4624-a803-fe197079c7a3",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/갑각요새국_카르키논.webp",
       "type": "국가",
       "subtype": "주요",
       "region": "심연의 의회",
       "status": "완료",
       "created_at": "2026년 6월 19일 오전 6:40",
-      "updated_at": "2026년 6월 23일 오후 9:05",
-      "docType": "setting"
+      "updated_at": "2026년 6월 23일 오후 9:05"
     },
     {
       "title": "강철 제국 데우스",
+      "uuid": "27d8bf90-be82-444f-be58-1ab9b6f7acda",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/강철_제국_데우스.webp",
       "type": "국가",
       "region": "칼디라",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:47",
-      "updated_at": "2026년 5월 15일 오후 10:07",
-      "docType": "setting"
+      "updated_at": "2026년 5월 15일 오후 10:07"
     },
     {
       "title": "검은 광기",
+      "uuid": "96350c35-bd1a-4901-8321-1f930535917a",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "일반",
       "status": "완료",
       "created_at": "2026년 4월 30일 오전 9:01",
-      "updated_at": "2026년 4월 30일 오전 9:02",
-      "docType": "setting"
+      "updated_at": "2026년 4월 30일 오전 9:02"
     },
     {
       "title": "공포의 의회",
+      "uuid": "0248824f-a272-4bfe-b672-4321c4ccbc83",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "주요",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:43",
-      "updated_at": "2026년 5월 31일 오전 4:56",
-      "docType": "setting"
+      "updated_at": "2026년 5월 31일 오전 4:56"
     },
     {
       "title": "그라니타헤이븐 항구",
+      "uuid": "68f24189-ec33-4d98-b39a-8f0e89c02bf7",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "발가르",
       "status": "완료",
       "created_at": "2026년 4월 19일 오전 11:43",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "그림니르",
+      "uuid": "cf0813dd-c8f9-4f80-bdc9-3bf4efe324d0",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/그림니르.webp",
       "type": "인물",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 27일 오전 2:49",
-      "updated_at": "2026년 4월 27일 오전 2:50",
-      "docType": "setting"
+      "updated_at": "2026년 4월 27일 오전 2:50"
     },
     {
       "title": "기년법: Ausvalen Cataclysm (BAC/AAC)",
+      "uuid": "305e4948-a62e-44b6-8d50-1eefac5e8203",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "주요",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 5월 12일 오후 12:06",
-      "updated_at": "2026년 5월 15일 오후 2:30",
-      "docType": "setting"
+      "updated_at": "2026년 5월 15일 오후 2:30"
     },
     {
       "title": "넘어온 자들",
+      "uuid": "7e5ff5ca-e6f6-40c4-82c0-7131fd56e984",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 3월 30일 오전 1:32",
-      "updated_at": "2026년 4월 21일 오후 7:35",
-      "docType": "setting"
+      "updated_at": "2026년 4월 21일 오후 7:35"
     },
     {
       "title": "네베아 대륙",
+      "uuid": "8bcebc3e-c6ec-458e-a91e-8001bf33ffe4",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "지형",
       "subtype": "대륙",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:34",
-      "updated_at": "2026년 6월 25일 오전 4:39",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 4:39"
     },
     {
       "title": "녹턴 대륙",
+      "uuid": "acf4c586-46d0-40c1-bc00-7d17e63bfdb8",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "지형",
       "subtype": "대륙",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:35",
-      "updated_at": "2026년 6월 25일 오전 4:13",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 4:13"
     },
     {
       "title": "단령 막부",
+      "uuid": "2247dabf-e2e7-401a-93e2-9f92fd575363",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/단령_막부.webp",
       "type": "국가",
       "region": "청연",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:48",
-      "updated_at": "2026년 6월 1일 오전 2:56",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 2:56"
     },
     {
       "title": "대륙",
+      "uuid": "b0970d07-1287-483e-9227-dd68c2d4247c",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "시작 전",
       "created_at": "2026년 6월 25일 오전 2:59",
-      "updated_at": "2026년 6월 25일 오전 2:59",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 2:59"
     },
     {
       "title": "대마경 아우스발렌 던전",
+      "uuid": "f5fb97b6-0d8f-4b50-8080-9923c6b83194",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/대마경_아우스발렌_던전.webp",
       "type": "사건",
       "subtype": "주요",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 26일 오전 4:45",
-      "updated_at": "2026년 6월 16일 오후 9:43",
-      "docType": "setting"
+      "updated_at": "2026년 6월 16일 오후 9:43"
     },
     {
       "title": "대지의 신성 왕국 르기안",
+      "uuid": "889540ae-effc-4daf-bb62-c3844d946f05",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/르기안_신성_왕국.webp",
       "type": "국가",
       "region": "발가르",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:48",
-      "updated_at": "2026년 6월 1일 오전 2:47",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 2:47"
     },
     {
       "title": "던전",
+      "uuid": "af4d27c3-bf38-4265-9432-5aea338a8648",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "주요",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 3월 30일 오전 2:04",
-      "updated_at": "2026년 6월 16일 오후 9:49",
-      "docType": "setting"
+      "updated_at": "2026년 6월 16일 오후 9:49"
     },
     {
       "title": "듀란 애시모르",
+      "uuid": "e38bb59e-3ded-423c-a853-e8b2dec11979",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/듀란_애시모르.webp",
       "type": "인물",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 27일 오전 2:55",
-      "updated_at": "2026년 4월 27일 오전 3:09",
-      "docType": "setting"
+      "updated_at": "2026년 4월 27일 오전 3:09"
     },
     {
       "title": "드래곤",
+      "uuid": "81827a46-5ae2-4e4e-b08b-e7a194b795c7",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/드래곤.webp",
       "type": "종족",
       "status": "완료",
       "created_at": "2026년 4월 26일 오전 9:30",
-      "updated_at": "2026년 4월 28일 오후 4:12",
-      "docType": "setting"
+      "updated_at": "2026년 4월 28일 오후 4:12"
     },
     {
       "title": "드로이드",
+      "uuid": "f6088781-6cf2-4d68-b8a4-bc88a6a80016",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/드로이드.webp",
       "type": "종족",
       "status": "완료",
       "created_at": "2026년 6월 15일 오전 3:09",
-      "updated_at": "2026년 6월 15일 오후 8:29",
-      "docType": "setting"
+      "updated_at": "2026년 6월 15일 오후 8:29"
     },
     {
       "title": "드워프",
+      "uuid": "d437414a-db24-44f5-840d-66076af723f2",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/드워프.webp",
       "type": "종족",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:41",
-      "updated_at": "2026년 4월 26일 오전 10:08",
-      "docType": "setting"
+      "updated_at": "2026년 4월 26일 오전 10:08"
     },
     {
       "title": "루미나리스 신성 왕국",
+      "uuid": "272b9fe3-109a-4c8a-a792-37935b309dca",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/루미나리스_신성_왕국.webp",
       "type": "국가",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:48",
-      "updated_at": "2026년 6월 1일 오전 2:11",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 2:11"
     },
     {
       "title": "룩스테라",
+      "uuid": "b2e3feec-b99c-4471-97b2-ccf2e90acfa8",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/룩스테라.webp",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 3월 30일 오전 1:35",
-      "updated_at": "2026년 6월 19일 오전 10:25",
-      "docType": "setting"
+      "updated_at": "2026년 6월 19일 오전 10:25"
     },
     {
       "title": "룬다르 신성 제국",
+      "uuid": "0432c133-69eb-4149-946b-f1793acda8cf",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/룬다르_신성_제국.webp",
       "type": "국가",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:49",
-      "updated_at": "2026년 6월 1일 오전 1:29",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 1:29"
     },
     {
       "title": "리프안코르 항구",
+      "uuid": "f6be12b9-f1d0-4f3a-8cc0-be2415cf1156",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "실란도르",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 2:05",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "마나와 마법",
+      "uuid": "e9e06305-cf40-4453-89d7-5eba3dc732e2",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 3월 30일 오전 2:18",
-      "updated_at": "2026년 4월 21일 오후 7:35",
-      "docType": "setting"
+      "updated_at": "2026년 4월 21일 오후 7:35"
     },
     {
       "title": "마키나",
+      "uuid": "db94686d-b402-4fd1-a2b5-032c9b01d2dd",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "종족",
       "status": "완료",
       "created_at": "2026년 4월 28일 오후 2:30",
-      "updated_at": "2026년 6월 15일 오전 3:02",
-      "docType": "setting"
+      "updated_at": "2026년 6월 15일 오전 3:02"
     },
     {
       "title": "망서루 항구",
+      "uuid": "543f1cac-3854-4d4a-8c94-e693285130f8",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "청연",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 1:59",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "모험가",
+      "uuid": "af1b8c1a-080b-41e2-8239-0eccd9c02ca0",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 3월 30일 오전 1:42",
-      "updated_at": "2026년 6월 3일 오전 3:20",
-      "docType": "setting"
+      "updated_at": "2026년 6월 3일 오전 3:20"
     },
     {
       "title": "무림",
+      "uuid": "5437c7d5-47ab-47d8-934e-4383b09a81f0",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "일반",
       "region": "청연",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:45",
-      "updated_at": "2026년 6월 25일 오전 8:21",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 8:21"
     },
     {
       "title": "무림(武林) 최소 개념 정리",
+      "uuid": "771eba27-4a79-4d17-a0f4-e801f6354375",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "지침",
       "status": "완료",
       "created_at": "2026년 6월 25일 오전 8:12",
-      "updated_at": "2026년 6월 25일 오전 8:14",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 8:14"
     },
     {
       "title": "물의 신성 왕국 쿠아리온",
+      "uuid": "129828d3-b3a4-4a76-ae1e-c845b90a041a",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/쿠아리온_신성_왕국.webp",
       "type": "국가",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:49",
-      "updated_at": "2026년 6월 1일 오전 2:31",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 2:31"
     },
     {
       "title": "바람의 신성 왕국 에아누르",
+      "uuid": "ffa13967-b566-42a7-84a8-8fc555a6e5ea",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/에아누르_신성_왕국.webp",
       "type": "국가",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:49",
-      "updated_at": "2026년 6월 1일 오전 2:28",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 2:28"
     },
     {
       "title": "발가르 대륙",
+      "uuid": "edb7b67c-fdc3-42c5-9bdb-dfdfc747c0ab",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "지형",
       "subtype": "대륙",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:35",
-      "updated_at": "2026년 6월 25일 오전 4:33",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 4:33"
     },
     {
       "title": "발라스쿠 연맹",
+      "uuid": "1599d071-02eb-44bd-92fa-6ad249256bd0",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/발라스쿠_연맹.webp",
       "type": "국가",
       "subtype": "연맹",
       "region": "진홍의 해협",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:50",
-      "updated_at": "2026년 6월 25일 오전 4:30",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 4:30"
     },
     {
       "title": "발로르 왕국",
+      "uuid": "f0ef853e-d09e-49c5-bfcb-38a7248e3f70",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "국가",
       "region": "네베아",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:50",
-      "updated_at": "2026년 6월 2일 오전 2:23",
-      "docType": "setting"
+      "updated_at": "2026년 6월 2일 오전 2:23"
     },
     {
       "title": "불의 신성 왕국 아그니르",
+      "uuid": "0a65bd1b-a2aa-48ba-b49e-914f6bbd45f3",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/아그니르_신성_왕국.webp",
       "type": "국가",
       "region": "칼디라",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:50",
-      "updated_at": "2026년 6월 1일 오전 3:18",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 3:18"
     },
     {
       "title": "블랙헤이븐 항구",
+      "uuid": "1c10936b-4325-4933-9432-1a762f0e6108",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "카르코사",
       "status": "완료",
       "created_at": "2026년 4월 19일 오전 11:39",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "빛의 귀인",
+      "uuid": "7e02d952-b4bb-497c-9af8-81ea24a16174",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 29일 오전 4:13",
-      "updated_at": "2026년 5월 2일 오전 6:47",
-      "docType": "setting"
+      "updated_at": "2026년 5월 2일 오전 6:47"
     },
     {
       "title": "생명의 신성 왕국 실바니아",
+      "uuid": "223bc944-ff32-449c-b3fe-b5dfa04debc8",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/생명의_신성_왕국_실바니아.webp",
       "type": "국가",
       "region": "실란도르",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:51",
-      "updated_at": "2026년 6월 1일 오전 10:00",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 10:00"
     },
     {
       "title": "선림",
+      "uuid": "1c3a3e23-af32-4146-b4f9-9bb5b7a71d2e",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "일반",
       "region": "청연",
       "status": "완료",
       "created_at": "2026년 6월 25일 오전 8:14",
-      "updated_at": "2026년 6월 25일 오전 8:21",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 8:21"
     },
     {
       "title": "선림(仙林) 최소 개념 정리",
+      "uuid": "09a2db49-15a6-4d8c-97b4-cfdd911483a3",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "지침",
       "status": "완료",
       "created_at": "2026년 6월 25일 오전 8:12",
-      "updated_at": "2026년 6월 25일 오전 8:14",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 8:14"
     },
     {
       "title": "세계수 위그드라실",
+      "uuid": "db310c9c-3bc5-4001-a28e-f667faa61474",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 3월 30일 오전 1:37",
-      "updated_at": "2026년 5월 31일 오후 11:29",
-      "docType": "setting"
+      "updated_at": "2026년 5월 31일 오후 11:29"
     },
     {
       "title": "셀레스티얼 실바",
+      "uuid": "82c94dfb-9078-4f47-9727-231eb8081fe3",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/셀레스티얼_실바.webp",
       "type": "국가",
       "region": "실란도르",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:51",
-      "updated_at": "2026년 6월 1일 오전 1:48",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 1:48"
     },
     {
       "title": "솔리움 항구",
+      "uuid": "95e65612-659e-4c71-b242-a46fa901fa23",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 19일 오전 10:27",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "쉐도우글래스 항구",
+      "uuid": "b0251cd4-37fa-416e-bc1e-81c95e1849de",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "녹턴",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 2:29",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "스케이븐",
+      "uuid": "07c4471f-4b98-4a13-bd3c-17fdaf04ee96",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "종족",
       "status": "완료",
       "created_at": "2026년 6월 15일 오후 9:13",
-      "updated_at": "2026년 6월 15일 오후 9:23",
-      "docType": "setting"
+      "updated_at": "2026년 6월 15일 오후 9:23"
     },
     {
       "title": "시초의 제국",
+      "uuid": "ce14bcb3-ee90-4e92-9297-32f53e0e6b3a",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 3월 30일 오전 2:10",
-      "updated_at": "2026년 4월 21일 오후 7:35",
-      "docType": "setting"
+      "updated_at": "2026년 4월 21일 오후 7:35"
     },
     {
       "title": "신앙과 종교",
+      "uuid": "6cea7e1a-dc94-4d67-b6c4-91f88d8d193b",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 3월 30일 오전 2:22",
-      "updated_at": "2026년 5월 2일 오전 6:56",
-      "docType": "setting"
+      "updated_at": "2026년 5월 2일 오전 6:56"
     },
     {
       "title": "실란도르 대륙",
+      "uuid": "ddcd567d-f596-403a-ac65-0a04b3e5b47a",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "지형",
       "subtype": "대륙",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:36",
-      "updated_at": "2026년 6월 25일 오전 3:50",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 3:50"
     },
     {
       "title": "심해의 다섯 왕국의 성물",
+      "uuid": "0e949eeb-4c60-457d-9178-74b08c28f25d",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/심해의_다섯_성물.webp",
       "type": "아이템",
       "subtype": "주요",
       "region": "심연의 의회",
       "status": "완료",
       "created_at": "2026년 6월 19일 오전 7:55",
-      "updated_at": "2026년 6월 19일 오전 9:30",
-      "docType": "setting"
+      "updated_at": "2026년 6월 19일 오전 9:30"
     },
     {
       "title": "심해의 의회",
+      "uuid": "74303d03-6006-49d2-a043-49fdc3c1ad8c",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:45",
-      "updated_at": "2026년 6월 19일 오전 9:50",
-      "docType": "setting"
+      "updated_at": "2026년 6월 19일 오전 9:50"
     },
     {
       "title": "쌍령왕국 사티야",
+      "uuid": "04d6af5b-736f-47cd-8509-b1413067ae81",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/쌍령왕국_사티야.webp",
       "type": "국가",
       "subtype": "주요",
       "region": "심연의 의회",
       "status": "완료",
       "created_at": "2026년 6월 19일 오전 6:42",
-      "updated_at": "2026년 6월 19일 오전 9:46",
-      "docType": "setting"
+      "updated_at": "2026년 6월 19일 오전 9:46"
     },
     {
       "title": "아그네스 밀러",
+      "uuid": "59ee97cd-e867-468f-9121-1558ba774bdb",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/아그네스_밀러.webp",
       "type": "인물",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 27일 오전 3:09",
-      "updated_at": "2026년 4월 27일 오전 3:45",
-      "docType": "setting"
+      "updated_at": "2026년 4월 27일 오전 3:45"
     },
     {
       "title": "아르젠타 항구",
+      "uuid": "8de25396-5296-4e4c-b65d-b273e5918f8e",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 19일 오전 10:27",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "아르카 마법 연합",
+      "uuid": "73a0cdbe-4bc6-4318-964b-7c2e20302486",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/아르카_마법_연합.webp",
       "type": "단체",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:46",
-      "updated_at": "2026년 5월 22일 오후 11:59",
-      "docType": "setting"
+      "updated_at": "2026년 5월 22일 오후 11:59"
     },
     {
       "title": "아우렐리아 항구",
+      "uuid": "be0f139e-26cc-46ca-8e2c-e00ed9daa60b",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/아우렐리아_항구.webp",
       "type": "도시국가",
       "subtype": "항구",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 19일 오전 10:27",
-      "updated_at": "2026년 6월 1일 오전 3:03",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 3:03"
     },
     {
       "title": "아이언앵커 항구",
+      "uuid": "df23912f-48e8-48c8-b398-e37c1bee4aae",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "카르코사",
       "status": "완료",
       "created_at": "2026년 4월 19일 오전 11:39",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "아이언포지 연맹",
+      "uuid": "7e7c9a0d-90f4-4660-8d66-031dcd1573b7",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/아이언포지_연맹.webp",
       "type": "국가",
       "subtype": "연맹",
       "region": "발가르",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:51",
-      "updated_at": "2026년 6월 1일 오전 2:56",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 2:56"
     },
     {
       "title": "아주르헤이븐 항구",
+      "uuid": "02edfe0a-273d-4695-bbc9-978a44b1d2a2",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "실란도르",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 2:05",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "아카이럼 밀러",
+      "uuid": "e48df39c-20de-451f-a7a6-9beb79e764bf",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/아카이럼_밀러.webp",
       "type": "인물",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 27일 오전 3:28",
-      "updated_at": "2026년 4월 27일 오전 3:44",
-      "docType": "setting"
+      "updated_at": "2026년 4월 27일 오전 3:44"
     },
     {
       "title": "아크나톤 제국",
+      "uuid": "65f2f20e-3bbf-467f-a84e-2a11d005784b",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/아크나톤_제국.webp",
       "type": "국가",
       "region": "칼디라",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:52",
-      "updated_at": "2026년 5월 15일 오후 9:46",
-      "docType": "setting"
+      "updated_at": "2026년 5월 15일 오후 9:46"
     },
     {
       "title": "안개 농도",
+      "uuid": "fda0b62a-5f04-4800-b7c7-9a858ad97c8e",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "일반",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 6월 19일 오전 10:32",
-      "updated_at": "2026년 6월 19일 오전 10:35",
-      "docType": "setting"
+      "updated_at": "2026년 6월 19일 오전 10:35"
     },
     {
       "title": "앙그라의 못",
+      "uuid": "aa51d91e-966d-4016-9c0c-f64d5bb1456e",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/앙그라의_못.webp",
       "type": "개념",
       "subtype": "일반",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 6월 19일 오전 10:32",
-      "updated_at": "2026년 6월 19일 오전 10:40",
-      "docType": "setting"
+      "updated_at": "2026년 6월 19일 오전 10:40"
     },
     {
       "title": "앙그라의 안개",
+      "uuid": "fc529961-2042-418d-a974-dab34a2ef8dc",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/앙그라의_안개.webp",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 3월 30일 오전 1:40",
-      "updated_at": "2026년 6월 23일 오후 8:52",
-      "docType": "setting"
+      "updated_at": "2026년 6월 23일 오후 8:52"
     },
     {
       "title": "앙그라의 잔향",
+      "uuid": "a5b34328-fdcf-4b22-83a3-c0d89ebea04b",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "일반",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 4월 30일 오전 9:09",
-      "updated_at": "2026년 6월 16일 오후 9:49",
-      "docType": "setting"
+      "updated_at": "2026년 6월 16일 오후 9:49"
     },
     {
       "title": "어둠의 신성 왕국 에레보스",
+      "uuid": "52e67c5b-791f-42fd-b2e2-dd468f8bed91",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/에레보스_신성_왕국.webp",
       "type": "국가",
       "region": "녹턴",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:52",
-      "updated_at": "2026년 6월 1일 오전 1:57",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 1:57"
     },
     {
       "title": "에리나 밀러",
+      "uuid": "e497cf39-b353-4205-bf0b-97a8226b7ae4",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/에리나_밀러.webp",
       "type": "인물",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 27일 오전 3:23",
-      "updated_at": "2026년 4월 27일 오전 3:44",
-      "docType": "setting"
+      "updated_at": "2026년 4월 27일 오전 3:44"
     },
     {
       "title": "에리디안 경비대",
+      "uuid": "503b1f5d-13b6-4a0c-a11d-5327c8a3277b",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/에리디안_경비대.webp",
       "type": "단체",
       "subtype": "일반",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 26일 오전 4:33",
-      "updated_at": "2026년 6월 1일 오전 1:15",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 1:15"
     },
     {
       "title": "에리디안 대륙",
+      "uuid": "8962dd04-ba0d-48d2-859d-57f12d963802",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "지형",
       "subtype": "대륙",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:32",
-      "updated_at": "2026년 6월 25일 오전 4:29",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 4:29"
     },
     {
       "title": "에리디안 제국",
+      "uuid": "3356922d-899f-4d14-a986-a5c9e40485e3",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/에리디안제국.webp",
       "type": "국가",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 19일 오전 7:47",
-      "updated_at": "2026년 6월 1일 오전 1:15",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 1:15"
     },
     {
       "title": "에메랄드게이트 항구",
+      "uuid": "7397a621-3ca4-44e2-b721-8192a0f8660f",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "실란도르",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 2:05",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "에미르 라이트블룸 렘바이스",
+      "uuid": "d89aae05-1b7b-4f25-b80e-0e0613578fa4",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/에미르_렘바이스.webp",
       "type": "인물",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 5월 30일 오전 2:52",
-      "updated_at": "2026년 5월 31일 오전 1:24",
-      "docType": "setting"
+      "updated_at": "2026년 5월 31일 오전 1:24"
     },
     {
       "title": "에테르나 공화국",
+      "uuid": "bcc61b11-e20a-4a29-83cc-98c29d1bbc41",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/에테르나_공화국.webp",
       "type": "국가",
       "region": "발가르",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:53",
-      "updated_at": "2026년 6월 1일 오전 3:10",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 3:10"
     },
     {
       "title": "엘드라시온 왕국",
+      "uuid": "d5c89a8e-3b61-4dee-bfa2-e84f4c595e02",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/엘드라시온_왕국.webp",
       "type": "국가",
       "region": "네베아",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:53",
-      "updated_at": "2026년 6월 25일 오전 4:01",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 4:01"
     },
     {
       "title": "엘프",
+      "uuid": "6fcb76a7-5304-467a-9be5-86edb6da4404",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/엘프.webp",
       "type": "종족",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:41",
-      "updated_at": "2026년 4월 26일 오전 11:33",
-      "docType": "setting"
+      "updated_at": "2026년 4월 26일 오전 11:33"
     },
     {
       "title": "오렐리아 항구",
+      "uuid": "0d50f6c3-1bb2-48fa-b53d-09d5571986c4",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "발가르",
       "status": "완료",
       "created_at": "2026년 4월 19일 오전 11:43",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "오르반 항구",
+      "uuid": "6628856a-5245-48df-898c-932037d0a8dc",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 19일 오전 10:27",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "옵시디언아치 항구",
+      "uuid": "8a2d0c01-0b55-4656-b3c0-e21083e80dc5",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "녹턴",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 2:29",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "운경 황국",
+      "uuid": "43956b2d-e2a9-40e8-8f33-232517e3c248",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/운경_황국.webp",
       "type": "국가",
       "region": "청연",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:53",
-      "updated_at": "2026년 6월 1일 오전 12:38",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 12:38"
     },
     {
       "title": "위그드라실 연맹",
+      "uuid": "acaf7169-82bd-4683-a9ac-c72f2d2a5ebf",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "국가",
       "subtype": "연맹",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 4월 19일 오전 7:47",
-      "updated_at": "2026년 6월 25일 오전 4:09",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 4:09"
     },
     {
       "title": "위그드라실 의회",
+      "uuid": "f53b0114-2a18-4e76-87ec-a51e3df23940",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "주요",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 5월 10일 오전 8:54",
-      "updated_at": "2026년 6월 25일 오전 4:09",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 4:09"
     },
     {
       "title": "위스크 바람",
+      "uuid": "0c88b9a6-fdab-435c-af82-b176ac0aadf1",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/바람_상단주_위스크_바람.webp",
       "type": "인물",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 27일 오전 3:22",
-      "updated_at": "2026년 4월 27일 오후 6:41",
-      "docType": "setting"
+      "updated_at": "2026년 4월 27일 오후 6:41"
     },
     {
       "title": "윈터홀드 항구",
+      "uuid": "c1208a3c-75a8-45f1-b063-3990771988c6",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "네베아",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 12:01",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "유광성역 메두살리스",
+      "uuid": "a035f501-f980-4964-86a0-d1103719c58d",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/유광성역_메두살리스.webp",
       "type": "국가",
       "subtype": "주요",
       "region": "심연의 의회",
       "status": "완료",
       "created_at": "2026년 6월 19일 오전 6:42",
-      "updated_at": "2026년 6월 23일 오후 9:01",
-      "docType": "setting"
+      "updated_at": "2026년 6월 23일 오후 9:01"
     },
     {
       "title": "이레귤러 헌터",
+      "uuid": "515d7f0b-53ab-4daf-9cda-dd42bedcbc95",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "status": "완료",
       "created_at": "2026년 6월 15일 오전 3:02",
-      "updated_at": "2026년 6월 15일 오후 8:19",
-      "docType": "setting"
+      "updated_at": "2026년 6월 15일 오후 8:19"
     },
     {
       "title": "자유 탐사 도시 오리진",
+      "uuid": "bbce4f5e-3b49-4403-89f1-5fcec3661a6c",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/자유_탐사_도시_오리진.webp",
       "type": "도시국가",
       "region": "에리디안",
       "status": "완료",
       "created_at": "2026년 4월 26일 오전 4:33",
-      "updated_at": "2026년 6월 1일 오전 12:43",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 12:43"
     },
     {
       "title": "자유 탐사 연맹 공고 유형",
+      "uuid": "40cd376b-fc1f-4ac9-9994-ffd370b54f35",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "주요 개념",
       "subtype": "지침",
       "status": "완료",
       "created_at": "2026년 5월 31일 오전 5:08",
-      "updated_at": "2026년 6월 12일 오전 3:26",
-      "docType": "setting"
+      "updated_at": "2026년 6월 12일 오전 3:26"
     },
     {
       "title": "자유 탐사 연맹",
+      "uuid": "8a0dcf65-de38-42ed-8146-23ae0451e585",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "단체",
       "subtype": "주요",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 3월 30일 오전 1:44",
-      "updated_at": "2026년 5월 22일 오후 11:59",
-      "docType": "setting"
+      "updated_at": "2026년 5월 22일 오후 11:59"
     },
     {
       "title": "재생왕국 아스테라케",
+      "uuid": "f4ba8cfc-7a64-4c56-bc81-04a0ac14fbfd",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/재생왕국_아스테라케.webp",
       "type": "국가",
       "subtype": "주요",
       "region": "심연의 의회",
       "status": "완료",
       "created_at": "2026년 6월 19일 오전 6:40",
-      "updated_at": "2026년 6월 23일 오후 9:09",
-      "docType": "setting"
+      "updated_at": "2026년 6월 23일 오후 9:09"
     },
     {
       "title": "정령",
+      "uuid": "d8d68f39-f35c-4145-8e02-e8166ad97127",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/정령.webp",
       "type": "종족",
       "subtype": "일반",
       "status": "완료",
       "created_at": "2026년 4월 29일 오전 4:40",
-      "updated_at": "2026년 4월 29일 오전 4:49",
-      "docType": "setting"
+      "updated_at": "2026년 4월 29일 오전 4:49"
     },
     {
       "title": "정제사",
+      "uuid": "b646897d-67a3-4e6c-bfb0-0ee67a9e6b43",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 3월 30일 오전 1:52",
-      "updated_at": "2026년 4월 21일 오후 7:35",
-      "docType": "setting"
+      "updated_at": "2026년 4월 21일 오후 7:35"
     },
     {
       "title": "진명영 항구",
+      "uuid": "7ed76cec-1bfa-442c-a712-c8bee8f9d27a",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "청연",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 1:59",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "진주해국 마르가리온",
+      "uuid": "5213165c-815d-4047-8b96-aa7db820b3b2",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/진주해국_마르가리온.webp",
       "type": "국가",
       "subtype": "주요",
       "region": "심연의 의회",
       "status": "완료",
       "created_at": "2026년 6월 19일 오전 6:42",
-      "updated_at": "2026년 6월 23일 오후 8:59",
-      "docType": "setting"
+      "updated_at": "2026년 6월 23일 오후 8:59"
     },
     {
       "title": "천문대 항구",
+      "uuid": "441d332c-2006-48e0-94e5-19b892cebc4b",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "청연",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 1:59",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "철갑진 항구",
+      "uuid": "79ba770b-25e8-4a56-ba6c-a6255629d9b5",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "청연",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 1:59",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "청연 대륙",
+      "uuid": "d70d2637-efd9-44ce-a906-5abf09fe7119",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "지형",
       "subtype": "대륙",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:36",
-      "updated_at": "2026년 6월 28일 오후 8:08",
-      "docType": "setting"
+      "updated_at": "2026년 6월 28일 오후 8:08"
     },
     {
       "title": "카르바넬 왕국",
+      "uuid": "e3ec597c-6785-4e82-96d6-de563697d8d4",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/카르바넬_왕국.webp",
       "type": "국가",
       "region": "칼디라",
       "status": "완료",
       "created_at": "2026년 5월 15일 오후 8:59",
-      "updated_at": "2026년 5월 15일 오후 9:44",
-      "docType": "setting"
+      "updated_at": "2026년 5월 15일 오후 9:44"
     },
     {
       "title": "카르코사 대륙",
+      "uuid": "91897a42-69a5-41f5-86d6-3e9ddbfe3372",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "지형",
       "subtype": "대륙",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:36",
-      "updated_at": "2026년 6월 25일 오전 4:20",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 4:20"
     },
     {
       "title": "카밀론 락클리프",
+      "uuid": "84f88009-b1c3-412a-9e80-58889ed1bae5",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/카밀론_락클리프.webp",
       "type": "인물",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 27일 오전 3:00",
-      "updated_at": "2026년 4월 27일 오전 3:09",
-      "docType": "setting"
+      "updated_at": "2026년 4월 27일 오전 3:09"
     },
     {
       "title": "칼디라 대륙",
+      "uuid": "efb0752d-0d65-4ed9-94af-9bd0064e6330",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "지형",
       "subtype": "대륙",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:38",
-      "updated_at": "2026년 6월 25일 오전 4:17",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 4:17"
     },
     {
       "title": "컬트 오브 디스페어",
+      "uuid": "3adc3d2d-a30d-489d-9827-55fc5148f7ed",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/컬트_오브_디스페어.webp",
       "type": "단체",
       "subtype": "주요",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 4월 23일 오전 3:49",
-      "updated_at": "2026년 6월 16일 오후 9:49",
-      "docType": "setting"
+      "updated_at": "2026년 6월 16일 오후 9:49"
     },
     {
       "title": "크리스틴 밀러",
+      "uuid": "9c341bb2-4260-419d-b83c-f053e25f4bd8",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/크리스틴_밀러.webp",
       "type": "인물",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 27일 오전 3:37",
-      "updated_at": "2026년 4월 27일 오전 3:41",
-      "docType": "setting"
+      "updated_at": "2026년 4월 27일 오전 3:41"
     },
     {
       "title": "테라 셀레스티아",
+      "uuid": "e2417dde-00e5-4e60-be16-f529d2954309",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/테라_셀레스티아.webp",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 6월 12일 오전 8:43",
-      "updated_at": "2026년 6월 26일 오후 5:29",
-      "docType": "setting"
+      "updated_at": "2026년 6월 26일 오후 5:29"
     },
     {
       "title": "테라 움브라",
+      "uuid": "e6aac50b-55db-4406-91ef-f4f476768d5a",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/테라_움브라.webp",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 24일 오전 8:39",
-      "updated_at": "2026년 6월 26일 오후 5:32",
-      "docType": "setting"
+      "updated_at": "2026년 6월 26일 오후 5:32"
     },
     {
       "title": "테오르 마르케인",
+      "uuid": "b984c536-3737-415d-be4b-23f6f84a7c76",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/테오르_마르케인.webp",
       "type": "인물",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 27일 오후 7:52",
-      "updated_at": "2026년 4월 27일 오후 7:58",
-      "docType": "setting"
+      "updated_at": "2026년 4월 27일 오후 7:58"
     },
     {
       "title": "토템 가디언",
+      "uuid": "a3f7736f-80c5-421f-bb52-c23cae57851b",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/토템_가디언.webp",
       "type": "개념",
       "subtype": "일반",
       "region": "범대륙",
       "status": "완료",
       "created_at": "2026년 6월 19일 오전 10:32",
-      "updated_at": "2026년 6월 19일 오전 10:43",
-      "docType": "setting"
+      "updated_at": "2026년 6월 19일 오전 10:43"
     },
     {
       "title": "투누케나 부족",
+      "uuid": "3f0eac2a-7314-4628-b8ed-61597b00a7cb",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/투누케나_부족.webp",
       "type": "부족국가",
       "subtype": "일반",
       "region": "발가르",
       "status": "완료",
       "created_at": "2026년 6월 1일 오전 3:31",
-      "updated_at": "2026년 6월 1일 오전 3:34",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 3:34"
     },
     {
       "title": "펠가르드 연맹",
+      "uuid": "35cc897b-ef5f-4434-bd16-f1b8f5f6b0fd",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/펠가르드_연맹.webp",
       "type": "국가",
       "subtype": "연맹",
       "region": "네베아",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:54",
-      "updated_at": "2026년 6월 25일 오전 4:01",
-      "docType": "setting"
+      "updated_at": "2026년 6월 25일 오전 4:01"
     },
     {
       "title": "프로스트 앵커 항구",
+      "uuid": "b0f60300-4122-4d9a-9499-77a8877bf190",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "발가르",
       "status": "완료",
       "created_at": "2026년 4월 19일 오전 11:43",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "프로스트베일 항구",
+      "uuid": "bb692df2-ea31-433b-b453-431438e9d7a2",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "네베아",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 12:01",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "해월 연방",
+      "uuid": "e4495a3b-d38e-41ec-bc0d-acc230bd9c7d",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/해월_연방.webp",
       "type": "국가",
       "subtype": "연맹",
       "region": "청연",
       "status": "완료",
       "created_at": "2026년 4월 6일 오후 6:46",
-      "updated_at": "2026년 6월 1일 오전 1:18",
-      "docType": "setting"
+      "updated_at": "2026년 6월 1일 오전 1:18"
     },
     {
       "title": "해월진 항구",
+      "uuid": "745be837-500e-408a-882e-9df2a59d2471",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "도시국가",
       "subtype": "항구",
       "region": "청연",
       "status": "완료",
       "created_at": "2026년 4월 19일 오후 1:59",
-      "updated_at": "2026년 5월 3일 오후 3:31",
-      "docType": "setting"
+      "updated_at": "2026년 5월 3일 오후 3:31"
     },
     {
       "title": "화폐 개념",
+      "uuid": "fed72c95-9032-42a4-a70e-2382206a81e1",
+      "docType": "setting",
+      "thumbnail": "",
       "type": "개념",
       "subtype": "주요",
       "status": "완료",
       "created_at": "2026년 4월 25일 오후 11:56",
-      "updated_at": "2026년 4월 26일 오전 5:24",
-      "docType": "setting"
+      "updated_at": "2026년 4월 26일 오전 5:24"
     },
     {
       "title": "흑묵서고국 세피라스",
+      "uuid": "4c041477-82c4-412a-b3f5-01ea278facdf",
+      "docType": "setting",
+      "thumbnail": "룩스테라/이미지/설정/흑묵서고국_세피라스.webp",
       "type": "국가",
       "subtype": "주요",
       "region": "심연의 의회",
       "status": "완료",
       "created_at": "2026년 6월 19일 오전 6:41",
-      "updated_at": "2026년 6월 23일 오후 9:04",
-      "docType": "setting"
+      "updated_at": "2026년 6월 23일 오후 9:04"
     },
     {
       "title": "2031-2039 제4차 세계대전",
+      "uuid": "ed9c5bb9-f9c7-4b44-8e55-aaa20ba22f92",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "사건",
       "subtype": "",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "2040년대-2290년대 대붕괴",
+      "uuid": "8a0a8ca9-4c91-4114-b0d1-538faba58f70",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "사건",
       "subtype": "",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "2310 최초의 차원 굴절",
+      "uuid": "e79d42f7-f0bb-4b79-bbd5-89f5c4e05bb0",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "사건",
       "subtype": "",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "2320 선구자 결성",
+      "uuid": "2552488e-46b8-455b-bf09-2553c556dcaf",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "사건",
       "subtype": "",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "2322 위그드라실 식수",
+      "uuid": "679461f1-59dd-461e-ae9b-bc34aa56912d",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "사건",
       "subtype": "",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "길드-라의 영역",
+      "uuid": "11e555b5-dedf-497b-81c3-fffe98f25a6b",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "단체",
       "subtype": "길드",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "길드-붉은 십자",
+      "uuid": "27ec66af-deac-4d2d-b1dd-a3352ec12a7c",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "단체",
       "subtype": "길드",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "길드-새벽의 검",
+      "uuid": "27a14f13-2a27-49c2-80d0-87fe141d158c",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "단체",
       "subtype": "길드",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "길드-심연의 서클",
+      "uuid": "54a1b592-0c9e-44da-b89d-ad08720340c5",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "단체",
       "subtype": "길드",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "길드-정신의 탑",
+      "uuid": "e4823355-2274-407c-904d-c0004723e199",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "단체",
       "subtype": "길드",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "길드-철의 방패",
+      "uuid": "9321a96c-21d0-455b-981e-154b71e9aece",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "단체",
       "subtype": "길드",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "길드",
+      "uuid": "54f71e6b-8ac9-4a4d-b60d-bfc38552a57b",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "주요 개념",
       "subtype": "시스템",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "바이오 디바이스",
+      "uuid": "c9aef58c-eaf0-41fd-b91a-be1334997a5f",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "아이템",
       "subtype": "기기",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "신목의 요람",
+      "uuid": "83452a64-a40d-437e-9eee-d3d8316d5c7f",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "도시",
       "subtype": "주요",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "엘드로스 연표",
+      "uuid": "2cf68160-ba74-4363-8302-867a6fc290bb",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "주요 개념",
       "subtype": "역사",
       "region": "엘드로스",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "엘드로스",
+      "uuid": "c81308a1-36a6-44de-94ec-9ebe0d2b2c7d",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "도시",
       "subtype": "주요",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "위그드라실",
+      "uuid": "44f14737-2482-478e-9121-3984f0a86cf2",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "주요 개념",
       "subtype": "시스템",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "다리오",
+      "uuid": "1b2fc3b1-b789-4322-86c7-e7e92634d792",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "인물",
       "subtype": "오퍼레이터",
       "region": "-",
       "created_at": "-",
-      "updated_at": "-",
-      "docType": "setting"
+      "updated_at": "-"
     },
     {
       "title": "데릭",
+      "uuid": "bc99b056-7d0e-4e2d-b4cf-2d8fb3ac7596",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "인물",
       "subtype": "오퍼레이터",
       "region": "-",
       "created_at": "-",
-      "updated_at": "-",
-      "docType": "setting"
+      "updated_at": "-"
     },
     {
       "title": "미우",
+      "uuid": "61a582ad-76c4-4570-8e9a-3297fb2b29ec",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "인물",
       "subtype": "헌터",
       "region": "-",
       "created_at": "-",
-      "updated_at": "-",
-      "docType": "setting"
+      "updated_at": "-"
     },
     {
       "title": "엘로이",
+      "uuid": "c18c8f74-dd72-47bf-a932-c921187fed08",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "인물",
       "subtype": "헌터",
       "region": "-",
       "created_at": "-",
-      "updated_at": "-",
-      "docType": "setting"
+      "updated_at": "-"
     },
     {
       "title": "요한",
+      "uuid": "07fdc5ce-a327-43db-aa89-9d1c23468c20",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "인물",
       "subtype": "오퍼레이터",
       "region": "-",
       "created_at": "-",
-      "updated_at": "-",
-      "docType": "setting"
+      "updated_at": "-"
     },
     {
       "title": "은림",
+      "uuid": "5581e7fd-5ff4-452f-bd73-79801fc6db82",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "인물",
       "subtype": "헌터",
       "region": "-",
       "created_at": "-",
-      "updated_at": "-",
-      "docType": "setting"
+      "updated_at": "-"
     },
     {
       "title": "카야",
+      "uuid": "c3ac6488-2551-4338-a016-8fa45c0779fc",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "인물",
       "subtype": "헌터/오퍼레이터",
       "region": "-",
       "created_at": "-",
-      "updated_at": "-",
-      "docType": "setting"
+      "updated_at": "-"
     },
     {
       "title": "케프리",
+      "uuid": "1d8fac43-7e49-46d0-89b1-bc2eb7ba6c65",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "인물",
       "subtype": "헌터",
       "region": "-",
       "created_at": "-",
-      "updated_at": "-",
-      "docType": "setting"
+      "updated_at": "-"
     },
     {
       "title": "정제사",
+      "uuid": "62d09a25-52c5-4e8a-b660-472fcaaa927b",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "주요 개념",
       "subtype": "시스템",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "드루이드",
+      "uuid": "fc523848-8d5a-423d-9a97-8ca022971bed",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "디바인 브링어",
+      "uuid": "0582f676-f252-4e5f-8294-036c5d546180",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "리퍼",
+      "uuid": "0ca7a7f1-0241-4c3d-9b6e-67731470cbdc",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "메카닉",
+      "uuid": "cb36177d-a4db-425b-a4c4-00e9caef405e",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "비스트 테이머",
+      "uuid": "570cd573-9593-48da-8c40-3dddadfee74e",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "서머너",
+      "uuid": "6b379ce5-ee60-446f-b8e7-7c6718602358",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "소서리스&소서러",
+      "uuid": "4937c558-661d-490d-970e-d429d9a9d417",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "슬레이어",
+      "uuid": "96e6e0ef-6015-478a-9d24-b9a5ce5688b5",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "알케미스트",
+      "uuid": "fd1ea237-5f5a-44d7-8dda-1b91324eca90",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "어쎄신",
+      "uuid": "60934cf8-b8e1-46c6-98cb-9f1ce43929c9",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "에스퍼",
+      "uuid": "5ecc3780-8bc9-4573-972a-3f300dc5d8c7",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "오퍼레이터",
+      "uuid": "536deb6a-24f2-4b95-b0b7-b55810df941a",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "위자드",
+      "uuid": "aeba1aa1-ac0a-4fac-8f36-a7216bee3197",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "클래스",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "클래스",
+      "uuid": "88ef31e6-c5bf-4de4-b4c3-83402eb9f3aa",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "주요 개념",
       "subtype": "시스템",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "클랜",
+      "uuid": "7cb7c531-1014-4580-bd07-cc44eaf0ffa9",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "주요 개념",
       "subtype": "시스템",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "title": "헌터",
+      "uuid": "2d4c9106-6e27-49e4-b3c3-ceddec586253",
+      "docType": "setting",
+      "thumbnail": "",
       "status": "진행 중",
       "type": "주요 개념",
       "subtype": "시스템",
       "region": "",
       "created_at": "",
-      "updated_at": "",
-      "docType": "setting"
+      "updated_at": ""
     },
     {
       "status": "진행 중",
