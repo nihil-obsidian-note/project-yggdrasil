@@ -113,7 +113,7 @@ function parseFrontmatter(fileContent) {
 }
 
 function shouldSkipDir(dirName) {
-  return dirName.startsWith(".") || dirName === "quartz" || dirName === "graphify-out" || dirName === "docs" || dirName === "scripts";
+  return dirName.startsWith(".") || dirName === "docs" || dirName === "scripts";
 }
 
 function collectMarkdownFiles(rootDir) {

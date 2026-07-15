@@ -15,7 +15,7 @@
 **Files:**
 - Create: `scripts/test-convert-luxterra-settings.ps1`
 - Create: `scripts/convert-luxterra-settings.ps1`
-- Modify: `룩스테라/설정/*.md`
+- Modify: `시리즈/룩스테라/설정/*.md`
 
 - [ ] 샘플 메타 형식 고정
 - [ ] failing test 추가
@@ -29,7 +29,7 @@
 **Files:**
 - Create: `scripts/test-convert-luxterra-secret-settings.ps1`
 - Create: `scripts/convert-luxterra-secret-settings.ps1`
-- Modify: `룩스테라/비밀 설정/*.md`
+- Modify: `시리즈/룩스테라/비밀 설정/*.md`
 
 - [ ] 샘플 메타 형식 고정
 - [ ] failing test 추가
@@ -43,7 +43,7 @@
 **Files:**
 - Create: `scripts/test-convert-luxterra-maintenance.ps1`
 - Create: `scripts/convert-luxterra-maintenance.ps1`
-- Modify: `룩스테라/설정 정비/*.md`
+- Modify: `시리즈/룩스테라/설정 정비/*.md`
 
 - [ ] 샘플 메타 형식 고정
 - [ ] failing test 추가
@@ -57,7 +57,7 @@
 **Files:**
 - Create: `scripts/test-convert-luxterra-relations.ps1`
 - Create: `scripts/convert-luxterra-relations.ps1`
-- Modify: `룩스테라/세력 관계/*.md`
+- Modify: `시리즈/룩스테라/세력 관계/*.md`
 
 - [ ] 샘플 메타 형식 고정
 - [ ] failing test 추가
@@ -71,7 +71,7 @@
 **Files:**
 - Create: `scripts/test-convert-luxterra-story-design.ps1`
 - Create: `scripts/convert-luxterra-story-design.ps1`
-- Modify: `룩스테라/스토리 설계/*.md`
+- Modify: `시리즈/룩스테라/스토리 설계/*.md`
 
 - [ ] 샘플 메타 형식 고정
 - [ ] failing test 추가

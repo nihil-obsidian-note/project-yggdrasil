@@ -7,11 +7,11 @@ if (Test-Path -LiteralPath $tempRoot) {
     Remove-Item -LiteralPath $tempRoot -Recurse -Force
 }
 
-New-Item -ItemType Directory -Path (Join-Path $tempRoot "룩스테라\설정") -Force | Out-Null
-New-Item -ItemType Directory -Path (Join-Path $tempRoot "룩스테라\신격") -Force | Out-Null
+New-Item -ItemType Directory -Path (Join-Path $tempRoot "시리즈\룩스테라\설정") -Force | Out-Null
+New-Item -ItemType Directory -Path (Join-Path $tempRoot "시리즈\룩스테라\신격") -Force | Out-Null
 
-$settingPath = Join-Path $tempRoot "룩스테라\설정\테스트 설정.md"
-$deityPath = Join-Path $tempRoot "룩스테라\신격\테스트 신격.md"
+$settingPath = Join-Path $tempRoot "시리즈\룩스테라\설정\테스트 설정.md"
+$deityPath = Join-Path $tempRoot "시리즈\룩스테라\신격\테스트 신격.md"
 
 $settingDoc = @"
 ---
@@ -24,7 +24,7 @@ created_at: '2026-07-01'
 updated_at: '2026-07-01'
 ---
 
-![[룩스테라/이미지/설정/테스트_설정.webp]]
+![[시리즈/룩스테라/이미지/설정/테스트_설정.webp]]
 
 ## 항목
 
@@ -72,7 +72,7 @@ if ($settingContent -notmatch "(?m)^docType:\s*'setting'$") {
     throw "설정 문서의 docType이 추가되지 않았습니다."
 }
 
-if ($settingContent -notmatch "(?m)^thumbnail:\s*'룩스테라/이미지/설정/테스트_설정\.webp'$") {
+if ($settingContent -notmatch "(?m)^thumbnail:\s*'시리즈/룩스테라/이미지/설정/테스트_설정\.webp'$") {
     throw "설정 문서의 thumbnail이 본문 이미지에서 채워지지 않았습니다."
 }
 

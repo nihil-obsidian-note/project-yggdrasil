@@ -19,7 +19,6 @@
 - [ ] `AGENTS.md`에 공통 필수 메타데이터 `uuid`, `title`, `docType`, `thumbnail`, `status`, `created_at`, `updated_at` 규칙을 추가한다.
 - [ ] `thumbnail`이 없을 때는 빈 문자열 `''`로 두고 앱에서 기본 썸네일을 대체한다는 규칙을 명시한다.
 - [ ] `setting.type`, `setting.subtype`, `setting.region`과 `deity` 필드군을 현재 운영 기준대로 정리한다.
-- [ ] `quartz/content`는 원본의 심볼릭 링크 성격으로 보고 직접 대상에서 제외한다는 규칙을 적는다.
 - [ ] `이름` 대신 `title`을 공통 제목 키로 사용한다는 통일 방침을 적는다.
 
 ### Task 2: 현재 문서군 메타데이터 실태를 인벤토리화
@@ -31,7 +30,7 @@
 - [ ] `룩스테라`, `엘드로스`, `위그드라실` 원본 문서만 대상으로 순회하는 감사 스크립트를 만든다.
 - [ ] 문서별로 `title`, `이름`, `docType`, `uuid`, `thumbnail`, `type`, `subtype`, `region`, `rank`, `alignment`, `domain`, `portfolio` 존재 여부를 기록하게 한다.
 - [ ] 결과를 문서군별 누락 현황 표로 `docs/document-frontmatter-audit.md`에 정리한다.
-- [ ] `quartz/content`와 템플릿, 제외 폴더가 감사 결과에 섞이지 않는지 확인한다.
+- [ ] 템플릿과 제외 폴더가 감사 결과에 섞이지 않는지 확인한다.
 
 ### Task 3: 공통 메타 정규화 스크립트 작성
 
@@ -53,8 +52,8 @@
 - Modify: `scripts/test-normalize-document-frontmatter.ps1`
 
 - [ ] 폴더 경로 기반으로 최소 `docType` 판별 규칙을 추가한다.
-- [ ] `룩스테라/신격`, `엘드로스/신격` 계열은 `docType: deity`가 되도록 한다.
-- [ ] `룩스테라/설정`, `엘드로스/설정`, `위그드라실/설정` 계열은 `docType: setting`이 되도록 한다.
+- [ ] `시리즈/룩스테라/신격`, `시리즈/엘드로스/신격` 계열은 `docType: deity`가 되도록 한다.
+- [ ] `시리즈/룩스테라/설정`, `시리즈/엘드로스/설정`, `시리즈/위그드라실/설정` 계열은 `docType: setting`이 되도록 한다.
 - [ ] 후속 문서군 확장 여지를 위해 `secret_setting`, `relation`, `story_design`, `maintenance`, `template` 분기 지점을 코드 구조에 남긴다.
 - [ ] 샘플 테스트에 `setting`과 `deity` 판별 케이스를 추가한다.
 
@@ -84,9 +83,9 @@
 ### Task 7: 전체 문서에 정규화 적용
 
 **Files:**
-- Modify: `룩스테라/**/*.md`
-- Modify: `엘드로스/**/*.md`
-- Modify: `위그드라실/**/*.md`
+- Modify: `시리즈/룩스테라/**/*.md`
+- Modify: `시리즈/엘드로스/**/*.md`
+- Modify: `시리즈/위그드라실/**/*.md`
 
 - [ ] 적용 전 `git status --short`로 작업 트리를 확인한다.
 - [ ] `scripts/normalize-document-frontmatter.ps1`를 원본 문서군에 실행한다.
@@ -110,8 +109,8 @@
 ### Task 9: 템플릿 문서 동기화 여부 결정 및 반영
 
 **Files:**
-- Modify: `룩스테라/템플릿/*.md`
-- Modify: `엘드로스/템플릿/*.md`
+- Modify: `시리즈/룩스테라/템플릿/*.md`
+- Modify: `시리즈/엘드로스/템플릿/*.md`
 - Modify: `AGENTS.md`
 
 - [ ] 템플릿에도 `uuid`를 넣을지 정책을 결정한다.

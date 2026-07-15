@@ -22,7 +22,7 @@ function Test-ManagedDocumentPath {
     param([string]$RelativePath)
 
     $normalized = $RelativePath -replace "\\", "/"
-    return $normalized.StartsWith("룩스테라/") -or $normalized.StartsWith("엘드로스/")
+    return $normalized.StartsWith("시리즈/룩스테라/") -or $normalized.StartsWith("시리즈/엘드로스/")
 }
 
 function Get-FrontmatterDocument {
@@ -209,7 +209,6 @@ $targets = Get-ChildItem -LiteralPath $resolvedRoot -Recurse -File -Filter *.md 
     $fullName = $_.FullName -replace "\\", "/"
     $relative = $_.FullName.Substring($resolvedRoot.Length).TrimStart("\", "/") -replace "\\", "/"
     (Test-ManagedDocumentPath -RelativePath $relative) -and
-    -not $fullName.Contains("/quartz/content/") -and
     -not $relative.Contains("/템플릿/")
 }
 

@@ -230,13 +230,13 @@ git commit -m "2026 0627 feat: 노션 아이디 파일명 변경 스크립트 �
 **Files:**
 - Create: `scripts/rewrite-notion-id-links.ps1`
 - Create: `scripts/test-rewrite-notion-id-links.ps1`
-- Modify: `룩스테라/설정/*.md`
-- Modify: `룩스테라/신격/*.md`
-- Modify: `룩스테라/세력 관계/*.md`
-- Modify: `룩스테라/설정 정비/*.md`
-- Modify: `룩스테라/스토리 설계/*.md`
-- Modify: `룩스테라/비밀 설정/*.md`
-- Modify: `룩스테라/템플릿/*.md`
+- Modify: `시리즈/룩스테라/설정/*.md`
+- Modify: `시리즈/룩스테라/신격/*.md`
+- Modify: `시리즈/룩스테라/세력 관계/*.md`
+- Modify: `시리즈/룩스테라/설정 정비/*.md`
+- Modify: `시리즈/룩스테라/스토리 설계/*.md`
+- Modify: `시리즈/룩스테라/비밀 설정/*.md`
+- Modify: `시리즈/룩스테라/템플릿/*.md`
 
 - [ ] **Step 1: 링크 재작성 규칙 테스트를 먼저 작성**
 
@@ -322,7 +322,7 @@ git commit -m "2026 0627 feat: 노션 아이디 링크 재작성"
 ### Task 4: 실제 파일명 변경 실행과 잔존 아이디 검증
 
 **Files:**
-- Modify: `룩스테라/**/*.md`
+- Modify: `시리즈/룩스테라/**/*.md`
 - Modify: `docs/notion-id-rename-map.md`
 - Modify: `docs/notion-id-unresolved-links.md`
 

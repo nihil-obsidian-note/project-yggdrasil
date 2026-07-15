@@ -9,10 +9,9 @@ if (Test-Path -LiteralPath $tempRoot) {
     Remove-Item -LiteralPath $tempRoot -Recurse -Force
 }
 
-New-Item -ItemType Directory -Path (Join-Path $tempRoot "룩스테라\설정") -Force | Out-Null
-New-Item -ItemType Directory -Path (Join-Path $tempRoot "룩스테라\신격") -Force | Out-Null
-New-Item -ItemType Directory -Path (Join-Path $tempRoot "룩스테라\템플릿") -Force | Out-Null
-New-Item -ItemType Directory -Path (Join-Path $tempRoot "quartz\content\룩스테라\설정") -Force | Out-Null
+New-Item -ItemType Directory -Path (Join-Path $tempRoot "시리즈\룩스테라\설정") -Force | Out-Null
+New-Item -ItemType Directory -Path (Join-Path $tempRoot "시리즈\룩스테라\신격") -Force | Out-Null
+New-Item -ItemType Directory -Path (Join-Path $tempRoot "시리즈\룩스테라\템플릿") -Force | Out-Null
 
 $settingDoc = @"
 ---
@@ -51,17 +50,9 @@ title: '템플릿'
 ---
 "@
 
-$quartzDoc = @"
----
-title: '쿼츠 문서'
-uuid: 'ignore-me'
----
-"@
-
-[System.IO.File]::WriteAllText((Join-Path $tempRoot "룩스테라\설정\테스트 설정.md"), $settingDoc, [System.Text.UTF8Encoding]::new($false))
-[System.IO.File]::WriteAllText((Join-Path $tempRoot "룩스테라\신격\테스트 신격.md"), $deityDoc, [System.Text.UTF8Encoding]::new($false))
-[System.IO.File]::WriteAllText((Join-Path $tempRoot "룩스테라\템플릿\설정_기본 템플릿.md"), $templateDoc, [System.Text.UTF8Encoding]::new($false))
-[System.IO.File]::WriteAllText((Join-Path $tempRoot "quartz\content\룩스테라\설정\쿼츠 문서.md"), $quartzDoc, [System.Text.UTF8Encoding]::new($false))
+[System.IO.File]::WriteAllText((Join-Path $tempRoot "시리즈\룩스테라\설정\테스트 설정.md"), $settingDoc, [System.Text.UTF8Encoding]::new($false))
+[System.IO.File]::WriteAllText((Join-Path $tempRoot "시리즈\룩스테라\신격\테스트 신격.md"), $deityDoc, [System.Text.UTF8Encoding]::new($false))
+[System.IO.File]::WriteAllText((Join-Path $tempRoot "시리즈\룩스테라\템플릿\설정_기본 템플릿.md"), $templateDoc, [System.Text.UTF8Encoding]::new($false))
 
 & $scriptPath -RootPath $tempRoot -OutputPath $reportPath
 
@@ -83,15 +74,11 @@ if ($report -match "설정_기본 템플릿\.md") {
     throw "템플릿 문서는 감사 대상에서 제외되어야 합니다."
 }
 
-if ($report -match "쿼츠 문서\.md") {
-    throw "quartz/content 문서는 감사 대상에서 제외되어야 합니다."
-}
-
-if ($report -notmatch "\| 룩스테라/설정/테스트 설정\.md \| setting \| yes \| no \| no \| no \| yes \| yes \| yes \| yes \| no \| no \| no \| no \|") {
+if ($report -notmatch "\| 시리즈/룩스테라/설정/테스트 설정\.md \| setting \| yes \| no \| no \| no \| yes \| yes \| yes \| yes \| no \| no \| no \| no \|") {
     throw "설정 문서 감사 결과가 기대값과 다릅니다."
 }
 
-if ($report -notmatch "\| 룩스테라/신격/테스트 신격\.md \| deity \| yes \| no \| yes \| no \| no \| no \| no \| no \| yes \| yes \| yes \| yes \|") {
+if ($report -notmatch "\| 시리즈/룩스테라/신격/테스트 신격\.md \| deity \| yes \| no \| yes \| no \| no \| no \| no \| no \| yes \| yes \| yes \| yes \|") {
     throw "신격 문서 감사 결과가 기대값과 다릅니다."
 }
 
