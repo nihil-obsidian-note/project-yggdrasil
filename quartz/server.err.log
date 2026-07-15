@@ -1,0 +1,23 @@
+(node:32072) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:32072) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:32072) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:32072) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:32072) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+X [ERROR] Expected "}" but found "ignorePatterns"
+
+    quartz.config.ts:15:4:
+      15 │     ignorePatterns: [
+         │     ~~~~~~~~~~~~~~
+         ╵     }
+
+Couldn't parse Quartz configuration: ./quartz/build.ts
+TypeError: The "text" argument must be of type string. Received an instance of Error
+    at styleText (node:util:230:3)
+    at file:///C:/Users/nihil/coding/note/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9C%84%EA%B7%B8%EB%93%9C%EB%9D%BC%EC%8B%A4/quartz/quartz/cli/handlers.js:321:30
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at build (file:///C:/Users/nihil/coding/note/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9C%84%EA%B7%B8%EB%93%9C%EB%9D%BC%EC%8B%A4/quartz/quartz/cli/handlers.js:319:20)
