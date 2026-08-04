@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"프로젝트 위그드라실/룩스테라/신격\"  ",
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 6053078
       }
+    },
+    {
+      "query": "path:\"프로젝트 위그드라실/룩스테라/용종 도감\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 32800
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224337,
+  "scale": 0.5087618855792504,
   "close": false
 }
